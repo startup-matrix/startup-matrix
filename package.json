@@ -1,0 +1,23 @@
+{
+  "name": "startup-matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siman/smx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siman/smx/issues"
+  },
+  "homepage": "https://github.com/siman/smx#readme",
+  "dependencies": {
+    "fast-csv": "^2.3.1",
+    "underscore.string": "^3.3.4"
+  }
+}

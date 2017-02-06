@@ -1,0 +1,673 @@
+{
+  "Shopping": {
+    "Aggregate the long tail and drive discovery": {
+      "brand": "Wayfair",
+      "site": "https://www.wayfair.com/",
+      "logo": "http://www.bankerandtradesman.com/wp-content/uploads/2015/10/wayfair-logo.jpg"
+    },
+    "Make it a subscription": {
+      "brand": "Amazon Prime",
+      "site": "https://www.amazon.com/gp/prime/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Amazon_Prime_logo.jpg"
+    },
+    "Bring rentals to market at lower cost": {
+      "brand": "Joymode",
+      "site": "https://www.joymode.com/",
+      "logo": "https://cdn.evbuc.com/eventlogos/150254748/joymodelogo.png"
+    },
+    "Create a marketplace": {
+      "brand": "eBay",
+      "site": "http://www.ebay.com/",
+      "logo": "http://lofrev.net/wp-content/photos/2016/06/ebay-logo-1-250x150.png"
+    },
+    "Build a discovery driven experience (push model)": {
+      "brand": "Pinterest",
+      "site": "https://www.pinterest.com/",
+      "logo": "https://cdn0.iconfinder.com/data/icons/Pinterest/Pinterest_Logo.png"
+    },
+    "Build it as mobile-native": {
+      "brand": "Wish",
+      "site": "https://www.wish.com/",
+      "logo": "https://photos.prnewswire.com/prnvar/20150713/235913LOGO"
+    },
+    "Offer loans or insurance": {
+      "brand": "Affirm",
+      "site": "https://www.affirm.com/",
+      "logo": "http://www.incimages.com/uploaded_files/inlineimage/630x0/affirmlogo-green_lg1_30807.jpg"
+    },
+    "Build a software management layer": {
+      "brand": "Trim",
+      "site": "http://www.asktrim.com/",
+      "logo": "http://www.asktrim.com/assets/Logo_CircleText-46fdeabcf7dbbc21883591ff91944f1477d838de996964fc0383d6550d5d9322.png"
+    },
+    "Target a new or emerging market": {
+      "brand": "Flipkart",
+      "site": "https://www.flipkart.com/",
+      "logo": "http://www.underconsideration.com/brandnew/archives/flipkart_logo_detail.jpg"
+    }
+  },
+  "Mobile Video": {
+    "Build a UGC community": {
+      "brand": "musical.ly",
+      "site": "https://musical.ly/",
+      "logo": "http://www.billboard.com/files/media/musical-ly-app-logo-2016-billboard-650-1548.jpg"
+    }
+  },
+  "Gaming": {
+    "Produce original and exclusive content": {
+      "brand": "Supercell",
+      "site": "http://supercell.com/en/",
+      "logo": "http://seeklogo.com/images/S/supercell-logo-2E7DEB70F6-seeklogo.com.gif"
+    },
+    "Streamline a process through tech": {
+      "brand": "Scopely",
+      "site": "http://scopely.com/",
+      "logo": "http://www.adweek.com/socialtimes/wp-content/uploads/sites/2/2014/11/Scopely.png"
+    },
+    "Build an AR/VR app": {
+      "brand": "Pokémon GO",
+      "site": "http://www.pokemongo.com/",
+      "logo": "https://i.ytimg.com/vi/ot3bwOronm0/maxresdefault.jpg"
+    },
+    "Build a UGC community": {
+      "brand": "Twitch",
+      "site": "https://www.twitch.tv/",
+      "logo": "https://www-cdn.jtvnw.net/images/twitch_logo3.jpg"
+    }
+  },
+  "Travel": {
+    "Create a marketplace": {
+      "brand": "Airbnb",
+      "site": "https://www.airbnb.com/",
+      "logo": "https://a0.muscache.com/airbnb/static/about/resources/airbnb-logo-293-86cb5a9eea395a8233842fb74a5b59af.png"
+    },
+    "Build a messaging interaction model": {
+      "brand": "Lola",
+      "site": "https://www.lolatravel.com/",
+      "logo": "https://venturefizz.com/sites/default/files/styles/medium/public/m/deals/logo/lola_travel_logo.jpeg"
+    },
+    "Make it on demand": {
+      "brand": "Hotel Tonight",
+      "site": "https://www.hoteltonight.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/24/Hotel_Tonight_logo.png"
+    },
+    "Build a UGC community": {
+      "brand": "TripAdvisor",
+      "site": "https://www.tripadvisor.com/",
+      "logo": "http://vectorlogo4u.com/wp-content/uploads/2015/11/trip-advisor-logo-png.png"
+    }
+  },
+  "Kids": {
+    "Build a discovery driven experience (push model)": {
+      "brand": "Rockets of Awesome",
+      "site": "https://www.rocketsofawesome.com/",
+      "logo": "http://www.bbgventures.com/wp-content/uploads/2016/06/logo_rockets_2x.png"
+    },
+    "Build a vertical brand": {
+      "brand": "The Honest Co.",
+      "site": "https://www.honest.com/",
+      "logo": "https://img.honest.com/landing/shared/logo.png"
+    }
+  },
+  "Education": {
+    "Make a paid product free or very cheap": {
+      "brand": "Udacity",
+      "site": "https://www.udacity.com/",
+      "logo": "http://www.underconsideration.com/brandnew/archives/udacity_logo.png"
+    },
+    "Produce original and exclusive content": {
+      "brand": "MasterClass",
+      "site": "https://www.masterclass.com/",
+      "logo": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/577045-11b732d2897e82496090857540409a7b-medium_jpg.jpg?buster=1421096586"
+    },
+    "Build it as mobile-native": {
+      "brand": "Lumosity",
+      "site": "https://www.lumosity.com/",
+      "logo": "https://asset-beacon.lumosity.com/beacon/production/press/logos/lumosity_logo-7fd01a7d4d29f42b7a87fb9e641f96cf.png"
+    },
+    "Create a full-stack offering": {
+      "brand": "AltSchool",
+      "site": "https://www.altschool.com/",
+      "logo": "http://mms.businesswire.com/media/20140318005497/en/407676/5/AltSchool_Logo_(high_res).jpg"
+    }
+  },
+  "Fashion": {
+    "Make it a subscription": {
+      "brand": "Rent the Runway",
+      "site": "https://www.renttherunway.com/",
+      "logo": "http://mamuna.com/system/logos/2154/normal/renttherunaway_logo.png?1392113623"
+    },
+    "Create a marketplace": {
+      "brand": "Poshmark",
+      "site": "https://poshmark.com/",
+      "logo": "http://www.kcyouthere.com/wp-content/uploads/2012/07/poshmark-logo.jpg"
+    },
+    "Build a discovery driven experience (push model)": {
+      "brand": "Stitch Fix",
+      "site": "https://www.stitchfix.com/",
+      "logo": "https://res.cloudinary.com/goodsearch/image/upload/v1435767006/hi_resolution_merchant_logos/stitch-fix_coupons.jpg"
+    },
+    "Build a vertical brand": {
+      "brand": "Warby Parker",
+      "site": "https://www.warbyparker.com/",
+      "logo": "https://www.warbyparker.com/apple-touch-icon.png"
+    },
+    "Target a specific segment of the market": {
+      "brand": "GOAT",
+      "site": "https://www.airgoat.com/",
+      "logo": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAMXAAAAJDA3YWRkNmVmLWNlMzgtNDkxZS1iMTZjLThjN2ViMTBiMTllOA.png"
+    }
+  },
+  "Sports": {
+    "Bring an offline behavior online": {
+      "brand": "FanDuel",
+      "site": "https://www.fanduel.com/",
+      "logo": "http://www.underconsideration.com/brandnew/archives/fanduel_logo.png"
+    },
+    "Aggregate the long tail and drive discovery": {
+      "brand": "Bleacher Report",
+      "site": "http://bleacherreport.com/",
+      "logo": "http://logo-city.org/preview/15/06/08/170418_br-bleacher-report-logo.png"
+    },
+    "Produce original and exclusive content": {
+      "brand": "The Athletic",
+      "site": "https://theathletic.com/",
+      "logo": "https://theathletic.com/app/themes/athletic/assets/img/logo-wordmark-black.png"
+    }
+  },
+  "Media": {
+    "Make it a subscription": {
+      "brand": "Spotify",
+      "site": "https://www.spotify.com/",
+      "logo": "http://pixel.nymag.com/imgs/daily/vulture/2015/06/26/26-spotify.w1200.h630.jpg"
+    },
+    "Make a paid product free or very cheap": {
+      "brand": "SoundCloud",
+      "site": "https://soundcloud.com/",
+      "logo": "http://img01.thedrum.com/styles/tdn_article_full_width/s3/news/tmp/116055/soundcloud-logo.png?itok=vJJLQWOQ"
+    },
+    "Produce original and exclusive content": {
+      "brand": "Netflix",
+      "site": "https://www.netflix.com/",
+      "logo": "http://www.dafont.com/forum/attach/orig/4/4/444713.png"
+    },
+    "Streamline a process through tech": {
+      "brand": "Amino",
+      "site": "https://www.aminoapps.com/",
+      "logo": "http://www.pakman.com/wp-content/uploads/2015/09/Amino-logo_green.png"
+    },
+    "Create a new consumption or creation format": {
+      "brand": "Magic Leap",
+      "site": "https://www.magicleap.com/",
+      "logo": "http://www.roadtovr.com/wp-content/uploads/2014/10/magic-leap-logo.png"
+    },
+    "Target a specific segment of the market": {
+      "brand": "Cheddar",
+      "site": "http://www.cheddar.com/",
+      "logo": "http://static2.businessinsider.com/image/56c78a932e5265ba008b8630-746-223/screen%20shot%202016-02-19%20at%204.34.09%20pm.png"
+    },
+    "Build a UGC community": {
+      "brand": "YouTube",
+      "site": "https://www.youtube.com/",
+      "logo": "https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png"
+    }
+  },
+  "Cars": {
+    "Create a marketplace": {
+      "brand": "Shift",
+      "site": "https://shift.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Shift_logo_1.jpg"
+    },
+    "Offer loans or insurance": {
+      "brand": "Metromile",
+      "site": "https://www.metromile.com/",
+      "logo": "http://photos.prnewswire.com/prnfull/20150331/195730LOGO"
+    }
+  },
+  "Pets": {
+    "Make it a subscription": {
+      "brand": "Chewy",
+      "site": "https://www.chewy.com/",
+      "logo": "https://s3.amazonaws.com/media.wishpond.com/media/003/808/913/original.png?1422458979"
+    },
+    "Create a marketplace": {
+      "brand": "DogVacay",
+      "site": "https://dogvacay.com/",
+      "logo": "http://cdn2.content.compendiumblog.com/uploads/user/e9134729-1e32-474e-ba06-8360c93e7722/6e07160a-0799-4b0c-9dc3-fff6c0e2d486/Image/0031df8d29ee5424722fa74cdfa08ecd/dogvacay.jpg"
+    },
+    "Build a discovery driven experience (push model)": {
+      "brand": "BarkBox",
+      "site": "https://barkbox.com/",
+      "logo": "http://www.animalhavenshelter.org/wp-content/uploads/2015/12/barkbox-logo-blue-default.png"
+    },
+    "Build a vertical brand": {
+      "brand": "Ollie",
+      "site": "https://www.myollie.com/",
+      "logo": "http://www.radiopetlady.com/wp-content/uploads/2016/09/logo-545x175-1.png"
+    }
+  },
+  "Finance": {
+    "Bring an offline behavior online": {
+      "brand": "Wealthfront",
+      "site": "https://www.wealthfront.com/",
+      "logo": "http://www.thesimpledollar.com/wp-content/uploads/2014/12/wealthfront-logo.png"
+    },
+    "Make a paid product free or very cheap": {
+      "brand": "Credit Karma",
+      "site": "https://www.creditkarma.com/",
+      "logo": "https://creditkarmacdn-a.akamaihd.net/ckfiles.com/assets/69657661538/res/images/logos/ck-logo-upswing.svg"
+    },
+    "Create a marketplace": {
+      "brand": "Lending Club",
+      "site": "https://www.lendingclub.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c1/LendingClub_logo.jpg"
+    },
+    "Build it as mobile-native": {
+      "brand": "Robinhood",
+      "site": "https://www.robinhood.com/",
+      "logo": "http://howardlindzon.com/wp-content/uploads/2016/01/robinhood-logo-green.png"
+    },
+    "Apply blockchain": {
+      "brand": "Chain",
+      "site": "https://chain.com/",
+      "logo": "http://ec2-50-19-249-57.compute-1.amazonaws.com/system/companies/138-logo-whiteBG.png?1401492784"
+    },
+    "Build a trusted widget / API integration": {
+      "brand": "Stripe",
+      "site": "https://stripe.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Stripe_logo,_revised_2014.png/1280px-Stripe_logo,_revised_2014.png"
+    },
+    "Make it Peer-to-Peer": {
+      "brand": "Lemonade",
+      "site": "https://www.lemonade.com/",
+      "logo": "http://cdn.crowdfundinsider.com/wp-content/uploads/2015/12/lemonade.png"
+    },
+    "Target a new or emerging market": {
+      "brand": "Nubank",
+      "site": "https://www.nubank.com.br/",
+      "logo": "https://www.kaszek.com/wp-content/uploads/2016/03/1nulogo_whitebg.png"
+    }
+  },
+  "Fitness": {
+    "Make it a subscription": {
+      "brand": "ClassPass",
+      "site": "https://classpass.com/",
+      "logo": "http://www.mamachallenge.com/wp-content/uploads/2015/01/CDWN11-e1422601940511.png"
+    },
+    "Produce original and exclusive content": {
+      "brand": "Aaptiv",
+      "site": "http://www.aaptiv.com/",
+      "logo": "http://blog.aaptiv.com/wp-content/uploads/2016/11/logo@2x-1.jpg"
+    },
+    "Streamline a process through tech": {
+      "brand": "Naked",
+      "site": "https://naked.fit/",
+      "logo": "https://3dprint.com/wp-content/uploads/2016/04/624x624xNaked-Labs_logo_stacked_120pxl-624x624.jpeg.pagespeed.ic_.1sGT-CxU0G.jpg"
+    },
+    "Create a new consumption or creation format": {
+      "brand": "Peloton",
+      "site": "https://www.pelotoncycle.com/",
+      "logo": "https://www.filepicker.io/api/file/6kEsU0I7QQGudofNGS6l"
+    },
+    "Build hardware that unlocks new use cases": {
+      "brand": "Fitbit",
+      "site": "https://www.fitbit.com/",
+      "logo": "http://comolivingmag.com/wp-content/uploads/2015/09/Fitbit-logo-on-white.jpg"
+    }
+  },
+  "CPG": {
+    "Make it a subscription": {
+      "brand": "Dollar Shave Club",
+      "site": "https://www.dollarshaveclub.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/6/69/Dollar_shave_club_logo.png"
+    },
+    "Build a vertical brand": {
+      "brand": "HUBBLE",
+      "site": "https://www.hubblecontacts.com/",
+      "logo": "https://cdn.shopify.com/s/files/1/1516/5228/t/2/assets/full_logo_red.svg?13844067261394532726"
+    },
+    "Remove features to launch a simpler/better product": {
+      "brand": "Harry's",
+      "site": "https://www.harrys.com/",
+      "logo": "https://cdn.shopify.com/s/files/1/0116/6732/files/harrys-logo_9051.jpg?5697"
+    }
+  },
+  "Productivity": {
+    "Bring an offline behavior online": {
+      "brand": "Evernote",
+      "site": "https://evernote.com/",
+      "logo": "https://evernote.com/media/img/logos/evernote_logo_center_4c-lrg.png"
+    },
+    "Streamline a process through tech": {
+      "brand": "Dropbox",
+      "site": "https://www.dropbox.com/",
+      "logo": "https://cfl.dropboxstatic.com/static/images/brand/logotype-vflHjIsop.svg"
+    },
+    "Create a new consumption or creation format": {
+      "brand": "Slack",
+      "site": "https://slack.com/",
+      "logo": "https://brandfolder.com/slack/logo/slack-primary-logo.png"
+    },
+    "Build it as mobile-native": {
+      "brand": "Quip",
+      "site": "https://quip.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/72/Quip_company_logo.png"
+    },
+    "Use AI to create an assistant or other unique product": {
+      "brand": "Ozlo",
+      "site": "https://www.ozlo.ai/",
+      "logo": "https://s3.amazonaws.com/owler-image/logo/ozlo_owler_20160607_023713_original.png"
+    },
+    "Build a software management layer": {
+      "brand": "IFTTT",
+      "site": "https://ifttt.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/IFTTT_Logo.svg/2000px-IFTTT_Logo.svg.png"
+    },
+    "Build hardware that unlocks new use cases": {
+      "brand": "53",
+      "site": "http://www.fiftythree.com/",
+      "logo": "http://www.fiftythree.com/assets/images/logos/53-dark.svg"
+    }
+  },
+  "Photos": {
+    "Create a marketplace": {
+      "brand": "Shutterstock",
+      "site": "https://www.shutterstock.com/",
+      "logo": "https://accounts.shutterstock.com/assets/images/ss-logo-color-2x.png"
+    },
+    "Build it as mobile-native": {
+      "brand": "Instagram",
+      "site": "https://www.instagram.com/",
+      "logo": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2013/05/Screen-Shot-2013-05-02-at-2.27.45-PM-730x300.png"
+    },
+    "Use AI to create an assistant or other unique product": {
+      "brand": "Prisma",
+      "site": "http://prisma-ai.com/",
+      "logo": "https://cdn.xtremerain.com/wp-content/uploads/2016/08/prisma-logo-HD.jpg"
+    }
+  },
+  "Mental Health": {
+    "Make it a subscription": {
+      "brand": "Simple Habit",
+      "site": "https://www.simplehabit.com/",
+      "logo": "http://dl1.cbsistatic.com/i/2016/08/12/313e5483-a504-4bcb-a0d4-98de152527af/2c43526601bbce217ef119c9b115730c/imgingest-7118995974045370538.png"
+    },
+    "Produce original and exclusive content": {
+      "brand": "Headspace",
+      "site": "https://www.headspace.com/",
+      "logo": "http://simuddell.com/wp-content/uploads/2014/05/headspace.png"
+    },
+    "Make it a service": {
+      "brand": "Joyable",
+      "site": "https://joyable.com/",
+      "logo": "https://daks2k3a4ib2z.cloudfront.net/572a4404d6c4eb236f23595a/572a68ed6e747aa53d8ecf5f_BARREL_Joyable-small-sec-3.png"
+    }
+  },
+  "Healthcare": {
+    "Create a marketplace": {
+      "brand": "Zocdoc",
+      "site": "https://www.zocdoc.com/",
+      "logo": "http://www.underconsideration.com/brandnew/archives/zocdoc_logo.png"
+    },
+    "Offer loans or insurance": {
+      "brand": "Oscar",
+      "site": "https://www.hioscar.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/Oscar_Health_logo.svg"
+    },
+    "Create a full-stack offering": {
+      "brand": "Forward",
+      "site": "https://goforward.com/",
+      "logo": "https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_140,w_140/v1479522120/q1byy7vwt9bxpj1tap7o.png"
+    }
+  },
+  "Real Estate": {
+    "Bring an offline behavior online": {
+      "brand": "Compass",
+      "site": "https://www.compass.com/",
+      "logo": "https://static1.squarespace.com/static/516c687de4b00f416237be7e/t/560fed33e4b09e1a44ea7f0d/1443884340316/Compass-Real-Estate-RETech.png"
+    },
+    "Make it on demand": {
+      "brand": "Breather",
+      "site": "https://breather.com/",
+      "logo": "http://www.almoffice.ca/wp-content/uploads/2015/10/breather-logo.jpg"
+    }
+  },
+  "Cooking": {
+    "Enable easier creation": {
+      "brand": "Blue Apron",
+      "site": "https://www.blueapron.com/",
+      "logo": "https://p5.zdassets.com/hc/theme_assets/253623/200041337/BA_logo-02_STACKED.png"
+    },
+    "Build a UGC community": {
+      "brand": "Nom",
+      "site": "https://nom.com/",
+      "logo": "https://photos.prnewswire.com/prnvar/20160309/342306LOGO"
+    }
+  },
+  "Food & Drink": {
+    "Bring an offline behavior online": {
+      "brand": "Instacart",
+      "site": "https://www.instacart.com/",
+      "logo": "http://whatpixel.com/images/2016/01/instacart-logo-redesign-rebrand-2016.jpg"
+    },
+    "Build a vertical brand": {
+      "brand": "Hungryroot",
+      "site": "https://www.hungryroot.com/",
+      "logo": "http://zelkovavc.com/wp-content/uploads/2015/05/hungryroot-logo.png"
+    }
+  },
+  "Restaurants & Delivery": {
+    "Aggregate the long tail and drive discovery": {
+      "brand": "Slice",
+      "site": "http://slicelife.com/",
+      "logo": "https://pbs.twimg.com/profile_images/786149771283226624/8zsbj0DQ.jpg"
+    },
+    "Create a marketplace": {
+      "brand": "Grubhub",
+      "site": "https://www.grubhub.com/",
+      "logo": "http://s2.q4cdn.com/723557020/files/Grubhub-logo-inverted-251by107px@2x.png"
+    },
+    "Make it on demand": {
+      "brand": "Postmates",
+      "site": "https://postmates.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/Postmates_logo.png"
+    },
+    "Target a new or emerging market": {
+      "brand": "Deliveroo",
+      "site": "https://deliveroo.co.uk/",
+      "logo": "http://uk.deliveroo.puzzlelondon.co.uk/blog/wp-content/uploads/sites/2/2016/09/PREFERRED-VERSION-Deliveroo-Logo_Full_CMYK_Teal_edit.png"
+    }
+  },
+  "Parenting": {},
+  "Seniors": {
+    "Make it a service": {
+      "brand": "Honor",
+      "site": "https://www.joinhonor.com/",
+      "logo": "http://photos.prnewswire.com/prn/20160808/396236LOGO/Honor-Senior-Care-Logo"
+    }
+  },
+  "Weather": {
+    "Build it as mobile-native": {
+      "brand": "Dark Sky",
+      "site": "https://darksky.net/",
+      "logo": "https://s-media-cache-ak0.pinimg.com/236x/28/20/03/2820030de815cf05349356e6ec499c2a.jpg"
+    },
+    "Offer loans or insurance": {
+      "brand": "The Climate Corporation",
+      "site": "https://www.climate.com/",
+      "logo": "http://mms.businesswire.com/media/20160817005298/en/539840/5/TCC_Hex_4Color_LRG.jpg"
+    }
+  },
+  "Careers & Hiring": {
+    "Create a marketplace": {
+      "brand": "Hired",
+      "site": "https://hired.com/",
+      "logo": "https://s3.amazonaws.com/tdhq-company-logos/companies/logos/000/000/603/original/hired-light-padding-short.png?1470758499"
+    },
+    "Build a UGC community": {
+      "brand": "Glassdoor",
+      "site": "https://www.glassdoor.com/",
+      "logo": "https://press-content.glassdoor.com/app/uploads/sites/2/2015/04/GD-logo-green-on-white-01.jpg"
+    }
+  },
+  "Local Services": {
+    "Aggregate the long tail and drive discovery": {
+      "brand": "Thumbtack",
+      "site": "https://www.thumbtack.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/ThumbtackLogo.svg/1280px-ThumbtackLogo.svg.png"
+    },
+    "Make it on demand": {
+      "brand": "Handy",
+      "site": "https://www.handy.com/",
+      "logo": "http://core0.staticworld.net/images/article/2014/09/handy_logo-100435695-large.jpg"
+    }
+  },
+  "Faith & Inspiration": {},
+  "Transportation": {
+    "Build it as mobile-native": {
+      "brand": "Waze",
+      "site": "https://www.waze.com/",
+      "logo": "https://www.waze.com/assets/press/logo@2x-1fe7fea8f69b97707a15e0e5f336d422.png"
+    },
+    "Make it on demand": {
+      "brand": "Uber",
+      "site": "https://www.uber.com/",
+      "logo": "http://static4.businessinsider.com/image/56b10e64c08a80431d8bc158-326-163/uber_logobit_digital_white.png"
+    },
+    "Make it Peer-to-Peer": {
+      "brand": "Lyft",
+      "site": "https://www.lyft.com/",
+      "logo": "http://thepowershot.com/wp-content/uploads/2015/10/lyft-logo-facebook.jpg"
+    }
+  },
+  "Communication": {
+    "Aggregate the long tail and drive discovery": {
+      "brand": "GIPHY",
+      "site": "http://giphy.com/",
+      "logo": "http://ec2-50-19-249-57.compute-1.amazonaws.com/system/companies/158-logo-giphy_l.jpg?1400273381"
+    },
+    "Make it a subscription": {
+      "brand": "WhatsApp",
+      "site": "https://www.whatsapp.com/",
+      "logo": "https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/062015/whatsapp_logo.jpg?itok=0OJT0IcZ"
+    },
+    "Create a new consumption or creation format": {
+      "brand": "Snapchat",
+      "site": "https://www.snapchat.com/",
+      "logo": "http://www.logospike.com/wp-content/uploads/2014/11/Snapchat_logo.jpg"
+    },
+    "Build an AR/VR app": {
+      "brand": "AltspaceVR",
+      "site": "https://altvr.com/",
+      "logo": "http://bostonvr.org/wp-content/uploads/2016/03/colorLogo-altspaceVR.png"
+    },
+    "Make it Peer-to-Peer": {
+      "brand": "Skype",
+      "site": "https://www.skype.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Skype_logo.svg/2000px-Skype_logo.svg.png"
+    }
+  },
+  "Beauty & Health": {
+    "Create a marketplace": {
+      "brand": "StyleSeat",
+      "site": "https://www.styleseat.com/",
+      "logo": "https://d1vwnfeb9fby91.cloudfront.net/public/tumblr_assets/img/StyleSeat.Logo.Web.png"
+    },
+    "Build a vertical brand": {
+      "brand": "Glossier",
+      "site": "https://www.glossier.com/",
+      "logo": "http://maniacmagazine.com/wp-content/uploads/2016/05/glossier-logo.-maniac-magazine.jpg"
+    },
+    "Target a specific segment of the market": {
+      "brand": "Bevel",
+      "site": "https://getbevel.com/",
+      "logo": "https://www.filepicker.io/api/file/fjgSxvpvSJiaLUkmMlFF"
+    },
+    "Make it on demand": {
+      "brand": "GLAMSQUAD",
+      "site": "https://www.glamsquad.com/",
+      "logo": "http://photos.prnewswire.com/prn/20151008/275456LOGO/GLAMSQUAD-LOGO"
+    }
+  },
+  "Deals & Coupons": {
+    "Build a discovery driven experience (push model)": {
+      "brand": "Groupon",
+      "site": "https://www.groupon.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Groupon_Logo.svg/2000px-Groupon_Logo.svg.png"
+    }
+  },
+  "Dating": {
+    "Build it as mobile-native": {
+      "brand": "Tinder",
+      "site": "https://www.gotinder.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/d5/Tinder_logo.png"
+    }
+  },
+  "Gifting": {
+    "Create a marketplace": {
+      "brand": "Raise",
+      "site": "https://www.raise.com/",
+      "logo": "https://d2o2wpn1drmies.cloudfront.net/avatars/429/eec/123/ce0/4c9/d83/f0f/489/a27/7c1/5e/Raise-Mint-Monkey-01-png.medium.png?1429807830"
+    }
+  },
+  "Blogging": {
+    "Remove features to launch a simpler/better product": {
+      "brand": "Medium",
+      "site": "https://medium.com/",
+      "logo": "https://cdn-images-1.medium.com/max/800/1*5ztbgEt4NqpVaxTc64C-XA.png"
+    }
+  },
+  "News": {
+    "Build a discovery driven experience (push model)": {
+      "brand": "BuzzFeed",
+      "site": "https://www.buzzfeed.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BuzzFeed.svg/2000px-BuzzFeed.svg.png"
+    }
+  },
+  "Weddings": {
+    "Bring an offline behavior online": {
+      "brand": "Zola",
+      "site": "https://www.zola.com/",
+      "logo": "http://www-static.weddingbee.com/wp-content/uploads/2015/02/Zola-Logo-300x150.jpg"
+    },
+    "Bring rentals to market at lower cost": {
+      "brand": "The Black Tux",
+      "site": "https://theblacktux.com/",
+      "logo": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/156611-0983b09853f96f288436593107d60d28-medium_jpg.jpg?buster=1390437410"
+    }
+  },
+  "Security": {
+    "Streamline a process through tech": {
+      "brand": "1Password",
+      "site": "https://1password.com/",
+      "logo": "http://168kuc2h8b8d20lvkb36obq9-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/1Password-Logo.jpg"
+    }
+  },
+  "Home": {
+    "Bring an offline behavior online": {
+      "brand": "Nextdoor",
+      "site": "https://nextdoor.com/",
+      "logo": "https://nextdoor.com/static/nextdoorv2/images/newsroom/logo-green-large.png"
+    },
+    "Aggregate the long tail and drive discovery": {
+      "brand": "Houzz",
+      "site": "http://www.houzz.com/",
+      "logo": "http://st.hzcdn.com/res/2469/pic/print_logo.png?v=2469"
+    },
+    "Build a vertical brand": {
+      "brand": "Casper",
+      "site": "https://casper.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Casper_Logo.png"
+    },
+    "Enable easier creation": {
+      "brand": "Point",
+      "site": "https://point.com/",
+      "logo": "http://resources.point.com/wp-content/uploads/2016/05/cropped-512-logo-print-color.png"
+    },
+    "Make it a service": {
+      "brand": "Homepolish",
+      "site": "https://www.homepolish.com/",
+      "logo": "https://www.homepolish.com/assets/homepolish_logo-c85e020ccc97927625589eac4ba0ecd5.png"
+    }
+  }
+}
