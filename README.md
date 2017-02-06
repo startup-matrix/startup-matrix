@@ -2,6 +2,15 @@
 
 Tactics on the X. Markets on the Y.
 
+## View on GitHub
+
+GitHub has user friendly support for CSV and Markdown formats.
+
+* CSV: [./csv/b2c-site.csv](./csv/b2c-site.csv)
+* Markdown: [./markdown/b2c-brand-site.md](./markdown/b2c-brand-site.md)
+
+## Credits
+
 Credits to [original article](https://medium.com/the-mission/the-startup-idea-matrix-182bf2e6a53a) by Eric Stromberg.
 
 ## How to update JSON files?
