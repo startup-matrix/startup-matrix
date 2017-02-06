@@ -13,7 +13,7 @@ GitHub has a user friendly support for CSV and Markdown formats. So you can chec
 
 ## Startup JSON
 
-Information about each startup is now enriched with a text name of a brand, and a link to the main site of startup. Here is a sample of few startup JSON objects:
+Information about each startup is now enriched with a text name of a brand, and a link to the main site of startup. Here is a sample of a few startups as JSON objects:
 
 ```json
 {
