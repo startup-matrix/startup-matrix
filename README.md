@@ -4,7 +4,7 @@ Matrix visualizes the successful startups regarding the market they operate and 
 
 Tactics on the X. Markets on the Y.
 
-## View on GitHub
+## Matrix as table on GitHub
 
 GitHub has a user friendly support for CSV and Markdown formats. So you can check out the matrix right here on GitHub:
 
