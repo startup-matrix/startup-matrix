@@ -6,8 +6,8 @@ Tactics on the X. Markets on the Y.
 
 GitHub has user friendly support for CSV and Markdown formats.
 
-* CSV: [./csv/b2c-site.csv](./csv/b2c-site.csv)
-* Markdown: [./markdown/b2c-brand-site.md](./markdown/b2c-brand-site.md)
+* CSV: [csv/b2c-site.csv](./csv/b2c-site.csv)
+* Markdown: [markdown/b2c-brand-site.md](./markdown/b2c-brand-site.md)
 
 ## Credits
 
