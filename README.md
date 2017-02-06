@@ -4,6 +4,13 @@ Matrix visualizes the successful startups regarding the market they operate and 
 
 Tactics on the X. Markets on the Y.
 
+## View on GitHub
+
+GitHub has a user friendly support for CSV and Markdown formats. So you can check out the matrix right here on GitHub:
+
+* CSV: [csv/b2c-site.csv](./csv/b2c-site.csv)
+* Markdown: [markdown/b2c-brand-site.md](./markdown/b2c-brand-site.md)
+
 ## Startup JSON
 
 Information about each startup is now enriched with a text name of a brand, and a link to the main site of startup. Here is a sample of few startup JSON objects:
@@ -24,13 +31,6 @@ Information about each startup is now enriched with a text name of a brand, and 
     "tactic": "Create a marketplace"
   }
 ```
-
-## View on GitHub
-
-GitHub has a user friendly support for CSV and Markdown formats. So you can check out the matrix right here:
-
-* CSV: [csv/b2c-site.csv](./csv/b2c-site.csv)
-* Markdown: [markdown/b2c-brand-site.md](./markdown/b2c-brand-site.md)
 
 ## How to update JSON files?
 
