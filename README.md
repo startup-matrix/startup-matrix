@@ -4,9 +4,30 @@ Matrix visualizes the successful startups regarding the market they operate and 
 
 Tactics on the X. Markets on the Y.
 
+## Startup JSON
+
+Information about each startup is now enriched with a text name of a brand, and a link to the main site of startup. Here is a sample of few startup JSON objects:
+
+```json
+{
+    "brand": "Twitch",
+    "site": "https://www.twitch.tv/",
+    "logo": "https://www-cdn.jtvnw.net/images/twitch_logo3.jpg",
+    "market": "Gaming",
+    "tactic": "Build a UGC community"
+  },
+  {
+    "brand": "Airbnb",
+    "site": "https://www.airbnb.com/",
+    "logo": "https://a0.muscache.com/airbnb/static/about/resources/airbnb-logo-293-86cb5a9eea395a8233842fb74a5b59af.png",
+    "market": "Travel",
+    "tactic": "Create a marketplace"
+  }
+```
+
 ## View on GitHub
 
-GitHub has user friendly support for CSV and Markdown formats. So you can check out the matrix right here:
+GitHub has a user friendly support for CSV and Markdown formats. So you can check out the matrix right here:
 
 * CSV: [csv/b2c-site.csv](./csv/b2c-site.csv)
 * Markdown: [markdown/b2c-brand-site.md](./markdown/b2c-brand-site.md)
