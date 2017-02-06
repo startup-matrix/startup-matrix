@@ -2,24 +2,6 @@
  * Created by http://github.com/siman on 2017-02-06.
  */
 
-//var fs = require('fs');
-//var csv = require('csv');
-//var parser = csv.parse();
-//var stream = fs.createReadStream("./b2c-original.csv");
-//
-//fs.readFile('./b2c-original.csv');
-//
-//var csvStream = parser.on('readable', function(){
-//  while(data = parser.read()){
-//    console.log(data);
-//  }
-//});
-//
-//stream.pipe(csvStream);
-
-// ----
-// CSV v2
-
 let fs = require('fs');
 let tactics = require('./tactics');
 let S = require('underscore.string');
@@ -33,7 +15,7 @@ let marketToTacticsMap = {};
 let markets = [];
 let startups = [];
 
-var csv = require("fast-csv");
+let csv = require("fast-csv");
 csv
   .fromPath(
     "./b2c-original.csv", {
