@@ -44,10 +44,10 @@ csv
         marketToTacticsMap[market][tactic] = startup;
         tacticToMarketsMap[tactic][market] = startup;
 
-        let startupWithMetrics = Object.assign({}, startup);
-        startupWithMetrics.markets = [ market ];
-        startupWithMetrics.tactics = [ tactic ];
-        startups.push(startupWithMetrics);
+        startups.push(Object.assign({}, startup, {
+          market: market,
+          tactic: tactic
+        }));
       }
     });
   })
