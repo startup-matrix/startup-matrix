@@ -1,0 +1,2524 @@
+[
+  {
+    "brand": "Wayfair",
+    "site": "https://www.wayfair.com/",
+    "logo": "http://www.bankerandtradesman.com/wp-content/uploads/2015/10/wayfair-logo.jpg",
+    "market": "Shopping",
+    "tactic": "Aggregate the long tail and drive discovery",
+    "siteMeta": {
+      "fb": {
+        "appId": "158742637545893"
+      },
+      "title": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More | Wayfair",
+      "description": "Shop Wayfair for A Zillion Things Home across all styles and budgets. 5,000 brands of furniture, lighting, cookware, and more. Free Shipping on most items."
+    }
+  },
+  {
+    "brand": "Amazon Prime",
+    "site": "https://www.amazon.com/gp/prime/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Amazon_Prime_logo.jpg",
+    "market": "Shopping",
+    "tactic": "Make it a subscription",
+    "siteMeta": {
+      "title": "Amazon Prime",
+      "description": "Amazon Prime-Enjoy fast free shipping, exclusive access to movies and TV shows, ad-free music, unlimited photo storage, and Kindle books.",
+      "keywords": [
+        "amazon prime",
+        "prime"
+      ]
+    }
+  },
+  {
+    "brand": "Joymode",
+    "site": "https://www.joymode.com/",
+    "logo": "https://cdn.evbuc.com/eventlogos/150254748/joymodelogo.png",
+    "market": "Shopping",
+    "tactic": "Bring rentals to market at lower cost",
+    "siteMeta": {
+      "fb": {
+        "appId": "1650473958559812"
+      },
+      "og": {
+        "title": "Joymode",
+        "description": "Joymode lets you access everything you need—but don't own—for great experiences.",
+        "image": "https://www.joymode.com/assets/joymode-j-dark-1024-c3e30b72e6e8c9dc867b83b52cb365f2.png",
+        "type": "website",
+        "url": "https://www.joymode.com/"
+      },
+      "title": "Joymode"
+    }
+  },
+  {
+    "brand": "eBay",
+    "site": "http://www.ebay.com/",
+    "logo": "http://lofrev.net/wp-content/photos/2016/06/ebay-logo-1-250x150.png",
+    "market": "Shopping",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "fb": {
+        "appId": "102628213125203"
+      },
+      "title": "Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay",
+      "description": "Buy and sell electronics, cars, fashion apparel, collectibles, sporting goods, digital cameras, baby items, coupons, and everything else on eBay, the world's online marketplace",
+      "keywords": [
+        "ebay",
+        "electronics",
+        "cars",
+        "clothing",
+        "apparel",
+        "collectibles",
+        "sporting goods",
+        "digital cameras",
+        "antiques",
+        "tickets",
+        "jewelry",
+        "online shopping",
+        "auction",
+        "online auction"
+      ]
+    }
+  },
+  {
+    "brand": "Pinterest",
+    "site": "https://www.pinterest.com/",
+    "logo": "https://cdn0.iconfinder.com/data/icons/Pinterest/Pinterest_Logo.png",
+    "market": "Shopping",
+    "tactic": "Build a discovery driven experience (push model)",
+    "siteMeta": {
+      "fb": {
+        "appId": "274266067164"
+      },
+      "og": {
+        "title": "Pinterest",
+        "description": "Find and save recipes, parenting hacks, style inspiration and other ideas to try.",
+        "image": "https://s.pinimg.com/images/facebook_share_image.png",
+        "type": "website",
+        "url": "https://www.pinterest.com/"
+      },
+      "title": "Pinterest • The world’s catalog of ideas",
+      "description": "Find and save recipes, parenting hacks, style inspiration and other ideas to try."
+    }
+  },
+  {
+    "brand": "Wish",
+    "site": "https://www.wish.com/",
+    "logo": "https://photos.prnewswire.com/prnvar/20150713/235913LOGO",
+    "market": "Shopping",
+    "tactic": "Build it as mobile-native",
+    "siteMeta": {
+      "title": "Wish - Shopping Made Fun",
+      "description": "Shopping Made Fun. Join over 150 million others that have made their shopping more smart, fun, and rewarding.",
+      "keywords": [
+        "Wish",
+        "Wish.com",
+        "Shopping Made Fun",
+        "Online Shopping",
+        "Accessories",
+        "Baby & Kids",
+        "Fashion",
+        "Gadgets",
+        "Hobbies",
+        "Home Decor",
+        "Phone Upgrades",
+        "Makeup & Beauty",
+        "Shoes",
+        "Wallets & Bags",
+        "Watches"
+      ]
+    }
+  },
+  {
+    "brand": "Affirm",
+    "site": "https://www.affirm.com/",
+    "logo": "http://www.incimages.com/uploaded_files/inlineimage/630x0/affirmlogo-green_lg1_30807.jpg",
+    "market": "Shopping",
+    "tactic": "Offer loans or insurance",
+    "siteMeta": {
+      "og": {
+        "image": "https://www.affirm.com/images/press/affirm-mark.gif"
+      },
+      "title": "Affirm",
+      "description": "Affirm is the financial company for everyday people. We provide affordable ways to buy online that are more flexible and transparent than any other credit option."
+    }
+  },
+  {
+    "brand": "Trim",
+    "site": "http://www.asktrim.com/",
+    "logo": "http://www.asktrim.com/assets/Logo_CircleText-46fdeabcf7dbbc21883591ff91944f1477d838de996964fc0383d6550d5d9322.png",
+    "market": "Shopping",
+    "tactic": "Build a software management layer",
+    "siteMeta": {
+      "fb": {
+        "appId": "433654070172888"
+      },
+      "og": {
+        "title": "This website actually saves you money.",
+        "description": "Trim offers a suite of AI-powered tools to manage your finances.",
+        "image": "https://s3-us-west-1.amazonaws.com/asktrim-assets/Trim-Karate+(1).jpg",
+        "type": "product",
+        "url": "http://www.asktrim.com"
+      },
+      "title": "Trim: Find And Cancel Your Subscriptions",
+      "description": "Trim finds the subscriptions on your credit card and cancels the ones you don't want.",
+      "keywords": [
+        "Budgeting",
+        "Credit Card"
+      ]
+    }
+  },
+  {
+    "brand": "Flipkart",
+    "site": "https://www.flipkart.com/",
+    "logo": "http://www.underconsideration.com/brandnew/archives/flipkart_logo_detail.jpg",
+    "market": "Shopping",
+    "tactic": "Target a new or emerging market",
+    "siteMeta": {
+      "og": {
+        "title": "Online Shopping India | Buy Mobiles, Electronics, Appliances, Clothing and More Online at Flipkart.com",
+        "url": "https://www.flipkart.com"
+      },
+      "title": "Online Shopping India | Buy Mobiles, Electronics, Appliances, Clothing and More Online at Flipkart.com"
+    }
+  },
+  {
+    "brand": "musical.ly",
+    "site": "https://musical.ly/",
+    "logo": "http://www.billboard.com/files/media/musical-ly-app-logo-2016-billboard-650-1548.jpg",
+    "market": "Mobile Video",
+    "tactic": "Build a UGC community",
+    "siteMeta": {
+      "fb": {
+        "appId": "597615686992125"
+      },
+      "og": {
+        "title": "musical.ly - instant music videos",
+        "description": "Create beautiful music videos with your favorite songs, and share with friends. Musical.ly is the world's fastest growing social network around music and lifestyle.",
+        "image": "http://www.musical.ly/images/brand.png",
+        "url": "http://www.musical.ly"
+      },
+      "title": "musical.ly - instant music video"
+    }
+  },
+  {
+    "brand": "Supercell",
+    "site": "http://supercell.com/en/",
+    "logo": "http://seeklogo.com/images/S/supercell-logo-2E7DEB70F6-seeklogo.com.gif",
+    "market": "Gaming",
+    "tactic": "Produce original and exclusive content",
+    "siteMeta": {
+      "og": {
+        "title": "Supercell",
+        "image": "//cdn.supercell.com/supercell.com/170201121643/supercell.com/files/og_mainpage.png",
+        "type": "website",
+        "url": "http://supercell.com/en/"
+      },
+      "title": "Supercell",
+      "description": "Visit Supercell.com and find out more about us and our games."
+    }
+  },
+  {
+    "brand": "Scopely",
+    "site": "http://scopely.com/",
+    "logo": "http://www.adweek.com/socialtimes/wp-content/uploads/sites/2/2014/11/Scopely.png",
+    "market": "Gaming",
+    "tactic": "Streamline a process through tech",
+    "siteMeta": {
+      "og": {
+        "title": "Scopely",
+        "description": "Scopely is a next-generation mobile entertainment network founded in 2011 by social gaming entrepreneur, Walter Driver; former Applied Semantics co-founder, Eytan Elbaz; former lead software developer on MySpace’s Developer Platform, Ankur Bulsara; and startup veteran, Eric Futoran.",
+        "image": "http://scopely.com/wp-content/themes/scopely/images/facebook-share.jpg",
+        "type": "website"
+      },
+      "title": "Scopely",
+      "description": "Scopely is a next-generation mobile entertainment network founded in 2011 by social gaming entrepreneur, Walter Driver; former Applied Semantics co-founder, Eytan Elbaz; former lead software developer on MySpace’s Developer Platform, Ankur Bulsara; and startup veteran, Eric Futoran.",
+      "keywords": [
+        "scopely",
+        "mobile",
+        "games"
+      ]
+    }
+  },
+  {
+    "brand": "Pokémon GO",
+    "site": "http://www.pokemongo.com/",
+    "logo": "https://i.ytimg.com/vi/ot3bwOronm0/maxresdefault.jpg",
+    "market": "Gaming",
+    "tactic": "Build an AR/VR app",
+    "siteMeta": {
+      "og": {
+        "title": "Catch Pokémon in the Real World with Pokémon GO!",
+        "description": "Catch Pokémon in the Real World with Pokémon GO!",
+        "image": "http://www.pokemongo.com/static/assets/images/share-image.png",
+        "type": "game",
+        "url": "http://www.pokemongo.com/"
+      },
+      "title": "Homepage | Pokémon Go",
+      "description": "Catch Pokémon in the Real World with Pokémon GO!"
+    }
+  },
+  {
+    "brand": "Twitch",
+    "site": "https://www.twitch.tv/",
+    "logo": "https://www-cdn.jtvnw.net/images/twitch_logo3.jpg",
+    "market": "Gaming",
+    "tactic": "Build a UGC community",
+    "siteMeta": {
+      "fb": {
+        "appId": "161273083968709"
+      },
+      "og": {
+        "title": "Twitch",
+        "description": "Twitch is the world's leading video platform and community for gamers.",
+        "image": "//www-cdn.jtvnw.net/images/twitch_logo3.jpg",
+        "type": "website",
+        "url": "https://www.twitch.tv/"
+      },
+      "title": "Twitch",
+      "description": "Twitch is the world's leading video platform and community for gamers. More than 45 million gamers gather every month on Twitch to broadcast, watch and chat about gaming. Twitch's video platform is the backbone of both live and on-demand distribution for the entire video game ecosystem. This includes game publishers, developers, media outlets, industry conventions and press conferences, casual gamers and gaming for charity events. Twitch also caters to the entire esports industry, spanning the top pro players, tournaments, leagues, talk shows and organizations. Learn more at https://twitch.tv."
+    }
+  },
+  {
+    "brand": "Airbnb",
+    "site": "https://www.airbnb.com/",
+    "logo": "https://a0.muscache.com/airbnb/static/about/resources/airbnb-logo-293-86cb5a9eea395a8233842fb74a5b59af.png",
+    "market": "Travel",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "fb": {
+        "appId": "138566025676"
+      },
+      "og": {
+        "title": "Vacation Rentals, Homes, Experiences & Places - Airbnb",
+        "description": "Unforgettable trips start with Airbnb. Find adventures nearby or in faraway places and access unique homes, experiences, and places around the world.",
+        "image": "https://a0.muscache.com/airbnb/static/logos/trips-og-1280x630-9de9c338cc3fd9b5663fb80be0cbe8c2.jpg",
+        "type": "website",
+        "url": "https://www.airbnb.com/"
+      },
+      "title": "Vacation Rentals, Homes, Experiences & Places - Airbnb",
+      "description": "Unforgettable trips start with Airbnb. Find adventures nearby or in faraway places and access unique homes, experiences, and places around the world."
+    }
+  },
+  {
+    "brand": "Lola",
+    "site": "https://www.lolatravel.com/",
+    "logo": "https://venturefizz.com/sites/default/files/styles/medium/public/m/deals/logo/lola_travel_logo.jpeg",
+    "market": "Travel",
+    "tactic": "Build a messaging interaction model",
+    "siteMeta": {
+      "og": {
+        "title": "Lola Travel App",
+        "description": "Lola is a new kind of travel service that provides real human travel expertise on-demand through our smartphone app.",
+        "image": "https://d31r9j1pxp00yb.cloudfront.net/www/static/dist/img/facebook-meta-image.png?t=1486762917",
+        "type": "website"
+      },
+      "title": "Lola - Personal Travel Service for Hotels, Flights and More",
+      "description": "Lola is a travel app that provides instant access to a team of real human travel experts who will take care of your every travel need.",
+      "keywords": [
+        "Lola",
+        "Travel",
+        "Lola Travel",
+        "Chat"
+      ]
+    }
+  },
+  {
+    "brand": "Hotel Tonight",
+    "site": "https://www.hoteltonight.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/24/Hotel_Tonight_logo.png",
+    "market": "Travel",
+    "tactic": "Make it on demand",
+    "siteMeta": {
+      "title": "Last Minute Hotel Deals at Great Hotels - Hotel Tonight",
+      "description": "Amazing last-minute deals at top-rated hotels. Book Tonight, Tomorrow or 7 Days Out."
+    }
+  },
+  {
+    "brand": "TripAdvisor",
+    "site": "https://www.tripadvisor.com/",
+    "logo": "http://vectorlogo4u.com/wp-content/uploads/2015/11/trip-advisor-logo-png.png",
+    "market": "Travel",
+    "tactic": "Build a UGC community",
+    "siteMeta": {
+      "og": {
+        "title": "TripAdvisor: Read Reviews, Compare Prices & Book",
+        "description": "World's Largest Travel Site. 435 million+ unbiased traveler reviews. Search 200+ sites to find the best hotel prices.",
+        "image": "https://static.tacdn.com/img2/branding/TA_550x370.png"
+      },
+      "title": "TripAdvisor: Read Reviews, Compare Prices & Book",
+      "description": "World's Largest Travel Site. 435 million+ unbiased traveler reviews. Search 200+ sites to find the best hotel prices.",
+      "keywords": [
+        "vacation",
+        "vacations",
+        "vacation packages",
+        "vacation package",
+        "travel package",
+        "travel packages",
+        "travel",
+        "planning",
+        "hotel",
+        "hotels",
+        "motel",
+        "bed and breakfast",
+        "inn",
+        "guidebook",
+        "review",
+        "reviews",
+        "popular",
+        "plan",
+        "airfare",
+        "cheap",
+        "discount",
+        "map",
+        "maps",
+        "golf",
+        "ski",
+        "articles",
+        "attractions",
+        "advice",
+        "restaurants"
+      ]
+    }
+  },
+  {
+    "brand": "Rockets of Awesome",
+    "site": "https://www.rocketsofawesome.com/",
+    "logo": "http://www.bbgventures.com/wp-content/uploads/2016/06/logo_rockets_2x.png",
+    "market": "Kids",
+    "tactic": "Build a discovery driven experience (push model)",
+    "siteMeta": {
+      "fb": {
+        "appId": "1048437631860816"
+      },
+      "og": {
+        "title": "Rockets of Awesome",
+        "description": "A Smarter Way to Shop for Kids is Here.",
+        "image": "https://d1i63cr82e8t0q.cloudfront.net/assets/ROA_Share_iOS-d7c928348b59e9d08058be0d4d6ee1557ea2e1f1af4c449b3ba884ea4c2542af.jpg",
+        "url": "https://www.rocketsofawesome.com"
+      },
+      "title": "Rockets of Awesome",
+      "description": "The smarter way to shop for kids. We hand-pick a selection of clothes for your kids each season. And it's free! Only pay for what you keep."
+    }
+  },
+  {
+    "brand": "The Honest Co.",
+    "site": "https://www.honest.com/",
+    "logo": "https://img.honest.com/landing/shared/logo.png",
+    "market": "Kids",
+    "tactic": "Build a vertical brand",
+    "siteMeta": {
+      "fb": {
+        "appId": "935112833176672"
+      },
+      "og": {
+        "title": "{{ $seo.ogTitle || 'The Honest Company' }}",
+        "description": "{{ $seo.ogDescription || 'The Honest Company' }}",
+        "image": "{{ $seo.ogImage || 'https://honest.com/h2_assets/images/header_logo.6dbd795be245d32823f92756858266901ff73d9a.png' }}",
+        "type": "website",
+        "url": "{{ $seo.canonicalUrl }}"
+      },
+      "title": "The Honest CompanyThe Honest Company",
+      "description": "{{ $seo.description ||  'The Honest Company' }}"
+    }
+  },
+  {
+    "brand": "Udacity",
+    "site": "https://www.udacity.com/",
+    "logo": "http://www.underconsideration.com/brandnew/archives/udacity_logo.png",
+    "market": "Education",
+    "tactic": "Make a paid product free or very cheap",
+    "siteMeta": {
+      "og": {
+        "title": "Udacity - Free Online Classes & Nanodegrees",
+        "description": "Join Udacity and learn to code from the best online free courses and Nanodegree programs.",
+        "image": "https://d125fmws0bore1.cloudfront.net/assets/udacity_share-46db4b8faf075a5af5a1070a7fa0ad3639783609ff45f447e4ea467fe3aa9d32.png",
+        "type": "website",
+        "url": "/"
+      },
+      "title": "Udacity - Free Online Classes & Nanodegrees",
+      "description": "Join Udacity and learn to code from the best online free courses and Nanodegree programs."
+    }
+  },
+  {
+    "brand": "MasterClass",
+    "site": "https://www.masterclass.com/",
+    "logo": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/577045-11b732d2897e82496090857540409a7b-medium_jpg.jpg?buster=1421096586",
+    "market": "Education",
+    "tactic": "Produce original and exclusive content",
+    "siteMeta": {
+      "fb": {
+        "appId": "1438642769784622"
+      },
+      "og": {
+        "description": "A MasterClass is a class given to students of a particular discipline by an expert of that discipline. Turn to us when you wish to further your expertise in your chosen area of interest!",
+        "image": "https://d3p2cblwo1gy9o.cloudfront.net/images/183/original/fb_image_homepage.jpg?1438203980",
+        "type": "website",
+        "url": "https://www.masterclass.com/"
+      },
+      "title": "MasterClass Online Classes",
+      "description": "MasterClass offers online classes created for students of all skill levels. Our instructors are the best in the world.",
+      "keywords": [
+        "masterclass",
+        "online education",
+        "online classes",
+        "entertainment"
+      ]
+    }
+  },
+  {
+    "brand": "Lumosity",
+    "site": "https://www.lumosity.com/",
+    "logo": "https://asset-beacon.lumosity.com/beacon/production/press/logos/lumosity_logo-7fd01a7d4d29f42b7a87fb9e641f96cf.png",
+    "market": "Education",
+    "tactic": "Build it as mobile-native",
+    "siteMeta": {
+      "title": "Brain Games & Brain Training - Lumosity",
+      "description": "Enjoy brain training created by scientists and game designers",
+      "keywords": [
+        "brain exercises",
+        "brain game",
+        "brain games",
+        "brain power",
+        "brain teasers",
+        "brain test",
+        "brain trainer",
+        "brain training",
+        "brain training games",
+        "braingames",
+        "improve memory",
+        "intelligence test",
+        "luminosity",
+        "lumosity",
+        "memory game",
+        "memory games",
+        "mind games",
+        "speed game",
+        "speed games",
+        "test your brain",
+        "word bubbles",
+        "word games"
+      ]
+    }
+  },
+  {
+    "brand": "AltSchool",
+    "site": "https://www.altschool.com/",
+    "logo": "http://mms.businesswire.com/media/20140318005497/en/407676/5/AltSchool_Logo_(high_res).jpg",
+    "market": "Education",
+    "tactic": "Create a full-stack offering",
+    "siteMeta": {
+      "og": {
+        "title": "Welcome to AltSchool",
+        "description": "Through our network of lab and partner schools, AltSchool delivers a whole-child, personalized education that fosters student agency.",
+        "image": "https://s3.amazonaws.com/altschool-cdn/altschool-facebook-image-2.jpg"
+      },
+      "title": "Welcome to AltSchool",
+      "description": "Through our network of lab and partner schools, AltSchool delivers a whole-child, personalized education that fosters student agency."
+    }
+  },
+  {
+    "brand": "Rent the Runway",
+    "site": "https://www.renttherunway.com/",
+    "logo": "http://mamuna.com/system/logos/2154/normal/renttherunaway_logo.png?1392113623",
+    "market": "Fashion",
+    "tactic": "Make it a subscription",
+    "siteMeta": {
+      "fb": {
+        "appId": "142571992596"
+      },
+      "og": {
+        "image": "https://cdn.rtrcdn.com/sites/default/files/images/rtr_logo.svg.png",
+        "type": "website"
+      },
+      "title": "Rent the Runway | Rent the Runway",
+      "description": "Why buy when you can rent? Choose from thousands of designer pieces for special occasions and every day.",
+      "keywords": [
+        "rental dress",
+        "designer dress",
+        "dresses",
+        "gowns",
+        "cocktail dress",
+        "black tie dress",
+        "rent the runway",
+        "rtr"
+      ]
+    }
+  },
+  {
+    "brand": "Poshmark",
+    "site": "https://poshmark.com/",
+    "logo": "http://www.kcyouthere.com/wp-content/uploads/2012/07/poshmark-logo.jpg",
+    "market": "Fashion",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "title": "Poshmark is a fun and simple way to buy and sell fashion",
+      "description": "Shop the closets of women across America and sell yours too!"
+    }
+  },
+  {
+    "brand": "Stitch Fix",
+    "site": "https://www.stitchfix.com/",
+    "logo": "https://res.cloudinary.com/goodsearch/image/upload/v1435767006/hi_resolution_merchant_logos/stitch-fix_coupons.jpg",
+    "market": "Fashion",
+    "tactic": "Build a discovery driven experience (push model)",
+    "siteMeta": {
+      "og": {
+        "title": "Stitch Fix | Try It On For Size",
+        "description": "You’ve got to try this! Stitch Fix is the personal styling service for men & women that sends handpicked clothing to your door (with free shipping & returns!). Get started now.",
+        "image": "https://d27bvhtwhzf6pr.cloudfront.net/assets/photos/referral_link_sharing_image_resized-ee3a020bbc42a38c46e417e5e3ccae4d2a505b921e39c5dece11beda086a3eb2.jpg",
+        "type": "website",
+        "url": "https://www.stitchfix.com/"
+      },
+      "title": "Stitch Fix | Personal Styling for Women & Men",
+      "description": "You’ve got to try this! Stitch Fix is the personal styling service for men & women that sends handpicked clothing to your door (with free shipping & returns!). Get started now."
+    }
+  },
+  {
+    "brand": "Warby Parker",
+    "site": "https://www.warbyparker.com/",
+    "logo": "https://www.warbyparker.com/apple-touch-icon.png",
+    "market": "Fashion",
+    "tactic": "Build a vertical brand",
+    "siteMeta": {
+      "og": {
+        "title": "Online Eyeglasses & Sunglasses – Rx Glasses | Warby Parker",
+        "description": "Vintage-inspired prescription eyeglasses starting at $95. Find a great pair today with our free Home Try-On Program. Fast free shipping both ways.",
+        "image": "https://i.warbycdn.com/v/c/assets/social/image/fbopengraph/0/1517ab2f62/1200x627/0ca6.jpg",
+        "type": "product",
+        "url": "https://www.warbyparker.com/"
+      },
+      "title": "Online Eyeglasses & Sunglasses – Rx Glasses | Warby ParkerClear",
+      "description": "Vintage-inspired prescription eyeglasses starting at $95. Find a great pair today with our free Home Try-On Program. Fast free shipping both ways.",
+      "keywords": [
+        "Eyewear",
+        "eye wear",
+        "eyeglasses",
+        "glasses",
+        "optical",
+        "monocle",
+        "eyewear online",
+        "glasses online",
+        "eyeglasses online",
+        "vintage eyewear",
+        "fashion eyewear",
+        "retro eyewear",
+        "designer eyewear",
+        "boutique eyewear",
+        "acetate eyewear",
+        "eyeglasses frame",
+        "eyewear frame",
+        "plastic eyeglasses",
+        "anti-reflective lenses",
+        "prescription lenses",
+        "home try-on",
+        "affordable eyewear",
+        "affordable eyeglasses"
+      ]
+    }
+  },
+  {
+    "brand": "GOAT",
+    "site": "https://www.airgoat.com/",
+    "logo": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAMXAAAAJDA3YWRkNmVmLWNlMzgtNDkxZS1iMTZjLThjN2ViMTBiMTllOA.png",
+    "market": "Fashion",
+    "tactic": "Target a specific segment of the market",
+    "siteMeta": {
+      "og": {
+        "title": "GOAT: Buy and Sell Sneakers Safely",
+        "description": "Buy and sell sneakers safely on GOAT for desktop, iPhone and Android. We guarantee authenticity on every sneaker purchase or your money back."
+      },
+      "title": "GOAT: Buy and Sell Sneakers Safely",
+      "description": "Buy and sell sneakers safely on GOAT for desktop, iPhone and Android. We guarantee authenticity on every sneaker purchase or your money back."
+    }
+  },
+  {
+    "brand": "FanDuel",
+    "site": "https://www.fanduel.com/",
+    "logo": "http://www.underconsideration.com/brandnew/archives/fanduel_logo.png",
+    "market": "Sports",
+    "tactic": "Bring an offline behavior online"
+  },
+  {
+    "brand": "Bleacher Report",
+    "site": "http://bleacherreport.com/",
+    "logo": "http://logo-city.org/preview/15/06/08/170418_br-bleacher-report-logo.png",
+    "market": "Sports",
+    "tactic": "Aggregate the long tail and drive discovery",
+    "siteMeta": {
+      "fb": {
+        "appId": "135174055162"
+      },
+      "og": {
+        "title": "Bleacher Report",
+        "description": "From BleacherReport.com, your destination for the latest news on your teams and topics in sports.",
+        "image": "/img/logo-br-black-transparent-1200x630.png",
+        "type": "website",
+        "url": "http://bleacherreport.com/"
+      },
+      "title": "Bleacher Report | Sports. Highlights. News. Now.",
+      "description": "Sports journalists and bloggers covering NFL, MLB, NBA, NHL, MMA, college football and basketball, NASCAR, fantasy sports and more. News, photos, mock drafts, game scores, player profiles and more!",
+      "keywords": [
+        "Bleacher Report",
+        "bleacherreport.com",
+        "sports",
+        "writers",
+        "articles",
+        "comments",
+        "blogs",
+        "Formula 1",
+        "Premier League",
+        "Hockey",
+        "Soccer",
+        "Recaps",
+        "Boxscores",
+        "Stats",
+        "Schedules",
+        "Tennis",
+        "Golf",
+        "WWE",
+        "fantasy football",
+        "Lebron James"
+      ]
+    }
+  },
+  {
+    "brand": "The Athletic",
+    "site": "https://theathletic.com/",
+    "logo": "https://theathletic.com/app/themes/athletic/assets/img/logo-wordmark-black.png",
+    "market": "Sports",
+    "tactic": "Produce original and exclusive content",
+    "siteMeta": {
+      "og": {
+        "title": "The Athletic",
+        "description": "The Athletic is the premium destination of Chicago and Toronto insider scoop, player analysis, & expert opinion for fans that get it. No ads. No fluff.",
+        "image": "https://theathletic.com/app/themes/athletic/assets/img/_cities/og_fb/ta.jpg",
+        "url": "https://theathletic.com/"
+      },
+      "title": "The Athletic - Premium Sports News & Analysis",
+      "description": "The Athletic is the premium destination of Chicago and Toronto insider scoop, player analysis, & expert opinion for fans that get it. No ads. No fluff."
+    }
+  },
+  {
+    "brand": "Spotify",
+    "site": "https://www.spotify.com/",
+    "logo": "http://pixel.nymag.com/imgs/daily/vulture/2015/06/26/26-spotify.w1200.h630.jpg",
+    "market": "Media",
+    "tactic": "Make it a subscription",
+    "siteMeta": {
+      "fb": {
+        "appId": "174829003346"
+      },
+      "og": {
+        "title": "Music for everyone.",
+        "description": "Spotify is all the music you’ll ever need.",
+        "image": "http://d2c87l0yth4zbw.global.ssl.fastly.net/i/_global/open-graph-default.png",
+        "type": "website",
+        "url": "https://www.spotify.com/int/why-not-available/"
+      },
+      "title": "Availability - Spotify",
+      "description": "Spotify is a digital music service that gives you access to millions of songs.",
+      "keywords": [
+        "Spotify",
+        "music",
+        "online",
+        "listen",
+        "streaming",
+        "play",
+        "digital",
+        "album",
+        "artist",
+        "playlist"
+      ]
+    }
+  },
+  {
+    "brand": "SoundCloud",
+    "site": "https://soundcloud.com/",
+    "logo": "http://img01.thedrum.com/styles/tdn_article_full_width/s3/news/tmp/116055/soundcloud-logo.png?itok=vJJLQWOQ",
+    "market": "Media",
+    "tactic": "Make a paid product free or very cheap",
+    "siteMeta": {
+      "fb": {
+        "appId": "19507961798"
+      },
+      "title": "SoundCloud – Hear the world’s sounds",
+      "description": "SoundCloud is an audio platform that lets you listen to what you love and share the sounds you create.",
+      "keywords": [
+        "record",
+        "sounds",
+        "share",
+        "sound",
+        "audio",
+        "tracks",
+        "music",
+        "soundcloud"
+      ]
+    }
+  },
+  {
+    "brand": "Netflix",
+    "site": "https://www.netflix.com/",
+    "logo": "http://www.dafont.com/forum/attach/orig/4/4/444713.png",
+    "market": "Media",
+    "tactic": "Produce original and exclusive content",
+    "siteMeta": {
+      "og": {
+        "description": "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Start your free trial today."
+      },
+      "title": "Netflix Ukraine - Watch TV Shows Online, Watch Movies Online",
+      "description": "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Start your free trial today.",
+      "keywords": [
+        "watch movies",
+        "movies online",
+        "watch TV",
+        "TV online",
+        "TV shows online",
+        "watch TV shows",
+        "stream movies",
+        "stream tv",
+        "instant streaming",
+        "watch online",
+        "movies",
+        "watch movies Ukraine",
+        "watch TV online",
+        "no download",
+        "full length movies"
+      ]
+    }
+  },
+  {
+    "brand": "Amino",
+    "site": "https://www.aminoapps.com/",
+    "logo": "http://www.pakman.com/wp-content/uploads/2015/09/Amino-logo_green.png",
+    "market": "Media",
+    "tactic": "Streamline a process through tech",
+    "siteMeta": {
+      "og": {
+        "title": "Amino Apps",
+        "description": "YOUR INTERESTS...TIMES INFINITY",
+        "image": "http://www.aminoapps.com/static/img/get-amino.png"
+      },
+      "title": "Amino Apps",
+      "description": "Express yourself, discover new friends and discuss your passion with like-minded people.",
+      "author": "Amino Apps"
+    }
+  },
+  {
+    "brand": "Magic Leap",
+    "site": "https://www.magicleap.com/",
+    "logo": "http://www.roadtovr.com/wp-content/uploads/2014/10/magic-leap-logo.png",
+    "market": "Media",
+    "tactic": "Create a new consumption or creation format",
+    "siteMeta": {
+      "og": {
+        "title": "Welcome to Magic Leap",
+        "description": "Hi. We’re Magic Leap. We can’t wait to show you what we’ve been busy building. Until then, visit our site to learn more about us.",
+        "image": "http://www.magicleap.com/img/structured-data/open_graph_logo.png",
+        "type": "website"
+      },
+      "title": "Magic Leap",
+      "keywords": [
+        "Rony Abovitz",
+        "Magic Leap",
+        "Magicleap",
+        "Hour Blue",
+        "Hourblue",
+        "studio",
+        "digital media",
+        "technology",
+        "collective imagination",
+        "technological singularity",
+        "vision",
+        "perception",
+        "visual",
+        "optical",
+        "imagery",
+        "omni-optical",
+        "sensoryware",
+        "pictures",
+        "augmented reality",
+        "augmented",
+        "reality",
+        "simulation",
+        "experiments",
+        "labs",
+        "graphic novels",
+        "comics",
+        "imagery",
+        "cosmic",
+        "sparkydog",
+        "flutterpod"
+      ]
+    }
+  },
+  {
+    "brand": "Cheddar",
+    "site": "http://www.cheddar.com/",
+    "logo": "http://static2.businessinsider.com/image/56c78a932e5265ba008b8630-746-223/screen%20shot%202016-02-19%20at%204.34.09%20pm.png",
+    "market": "Media",
+    "tactic": "Target a specific segment of the market",
+    "siteMeta": {
+      "fb": {
+        "appId": "136862186391940"
+      },
+      "og": {
+        "title": "Cheddar (FIRST MONTH FREE)",
+        "description": "FIRST MONTH IS FREE! Cheddar is a live and on demand video news network focused on covering the most innovative products, technologies, and services transforming our lives. The network covers this news through the lens of the companies and executives driving these changes. Cheddar broadcasts from Post 10 on the floor of the New York Stock Exchange and NASDAQ Marketsite.",
+        "image": "https://dr56wvhu2c8zo.cloudfront.net/cheddartv/assets/images/subscription-16614-1469546512-1280x720.jpg",
+        "type": "website",
+        "url": "http://www.cheddar.com"
+      },
+      "title": "Cheddar",
+      "description": "Cheddar is a live and on demand video news network focused on covering the most innovative products, technologies, and services transforming our lives. The network covers this news through the lens of the companies and executives driving these changes. Cheddar broadcasts from Post 10 on the floor of the New York Stock Exchange and NASDAQ Marketsite.  The company was founded by Jon Steinberg, President and Chief Operating Officer of BuzzFeed from 2010 to 2014."
+    }
+  },
+  {
+    "brand": "YouTube",
+    "site": "https://www.youtube.com/",
+    "logo": "https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png",
+    "market": "Media",
+    "tactic": "Build a UGC community",
+    "siteMeta": {
+      "fb": {
+        "appId": "87741124305"
+      },
+      "og": {
+        "image": "/yts/img/yt_1200-vfl4C3T0K.png"
+      },
+      "title": "YouTube",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "keywords": [
+        "video",
+        "sharing",
+        "camera phone",
+        "video phone",
+        "free",
+        "upload"
+      ]
+    }
+  },
+  {
+    "brand": "Shift",
+    "site": "https://shift.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Shift_logo_1.jpg",
+    "market": "Cars",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "fb": {
+        "appId": "1444519018907044"
+      },
+      "og": {
+        "title": "The completely reimagined way to buy or sell a used car",
+        "description": "Skip the dealership. Shift is where peer-to-peer car buying meets certified quality, for thousands less. We bring the no-obligation test drive to you.",
+        "image": "http://shift.com/static/images/shift-logo-fb-4-25-16.png"
+      },
+      "title": "Shift | The completely reimagined way to buy or sell a used car",
+      "description": "Skip the dealership. Shift is where peer-to-peer car buying meets certified quality, for thousands less. We bring the no-obligation test drive to you."
+    }
+  },
+  {
+    "brand": "Metromile",
+    "site": "https://www.metromile.com/",
+    "logo": "http://photos.prnewswire.com/prnfull/20150331/195730LOGO",
+    "market": "Cars",
+    "tactic": "Offer loans or insurance",
+    "siteMeta": {
+      "og": {
+        "title": "Metromile: Pay-per-mile insurance",
+        "description": "Pay-per-mile insurance is an affordable insurance for low-mileage drivers. If you aren’t driving much, you shouldn’t be paying much.",
+        "type": "website",
+        "url": "https://www.metromile.com/"
+      },
+      "title": "Metromile: Pay-per-mile insurance",
+      "description": "Pay-per-mile insurance is an affordable insurance for low-mileage drivers. If you aren’t driving much, you shouldn’t be paying much."
+    }
+  },
+  {
+    "brand": "Chewy",
+    "site": "https://www.chewy.com/",
+    "logo": "https://s3.amazonaws.com/media.wishpond.com/media/003/808/913/original.png?1422458979",
+    "market": "Pets",
+    "tactic": "Make it a subscription",
+    "siteMeta": {
+      "og": {
+        "description": "Delivering pet happiness by conveniently shipping 500+ brands of pet food and stuff (for free!) while ensuring at-risk animals' lives are improved across the planet. 1-800-672-4399",
+        "image": "http://www.chewy.com/assets/img/logo/chewy-opengraph.png"
+      },
+      "title": "Dog and Cat Food, Treats, and Supplies | Free Shipping at Chewy.com",
+      "description": "Delivering pet happiness by conveniently shipping 500+ brands of pet food and stuff (for free!) while ensuring at-risk animals' lives are improved across the planet. 1-800-672-4399"
+    }
+  },
+  {
+    "brand": "DogVacay",
+    "site": "https://dogvacay.com/",
+    "logo": "http://cdn2.content.compendiumblog.com/uploads/user/e9134729-1e32-474e-ba06-8360c93e7722/6e07160a-0799-4b0c-9dc3-fff6c0e2d486/Image/0031df8d29ee5424722fa74cdfa08ecd/dogvacay.jpg",
+    "market": "Pets",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "og": {
+        "image": "https://static1.dogvacay.com/pug/img/misc/fb-share-default.jpg"
+      },
+      "title": "Dog Boarding with Trusted, Local Pet Sitters | DogVacay",
+      "description": "When you're on vacation, give your pup a stay in a real home. Bookings include premium insurance, 24/7 customer support, and belly rubs.",
+      "keywords": [
+        "dog boarding",
+        "dog hotel",
+        "dog sitting",
+        "dog daycare",
+        "pet sitting",
+        "dog friendly",
+        "dog vacation",
+        "dog vacay",
+        "DogVacay"
+      ]
+    }
+  },
+  {
+    "brand": "BarkBox",
+    "site": "https://barkbox.com/",
+    "logo": "http://www.animalhavenshelter.org/wp-content/uploads/2015/12/barkbox-logo-blue-default.png",
+    "market": "Pets",
+    "tactic": "Build a discovery driven experience (push model)",
+    "siteMeta": {
+      "og": {
+        "title": "BarkBox",
+        "description": "Get a monthly box of treats, toys & products for your pup that you can't find anywhere else! Plans start as low as $21/month and all treats are made in USA or Canada.",
+        "image": "http://barkbox-prod.global.ssl.fastly.net/assets/nacho_645x645-5679a02d0434cbee75bb940a348dd235.png",
+        "url": "https://www.barkbox.com"
+      },
+      "title": "Dog Toys, Treats & Gifts Every Month | BarkBox",
+      "description": "BarkBox is a monthly surprise of dog toys, treats, and goodies! Subscribe to BarkBox for your pup - or give BarkBox as the perfect dog gift."
+    }
+  },
+  {
+    "brand": "Ollie",
+    "site": "https://www.myollie.com/",
+    "logo": "http://www.radiopetlady.com/wp-content/uploads/2016/09/logo-545x175-1.png",
+    "market": "Pets",
+    "tactic": "Build a vertical brand",
+    "siteMeta": {
+      "fb": {
+        "appId": "1839512002936908"
+      },
+      "og": {
+        "title": "Ollie",
+        "image": "http://static.myollie.com/images/desktop/big/SocialShare_Bulldog.png",
+        "type": "website"
+      },
+      "title": "Ollie"
+    }
+  },
+  {
+    "brand": "Wealthfront",
+    "site": "https://www.wealthfront.com/",
+    "logo": "http://www.thesimpledollar.com/wp-content/uploads/2014/12/wealthfront-logo.png",
+    "market": "Finance",
+    "tactic": "Bring an offline behavior online",
+    "siteMeta": {
+      "og": {
+        "title": "Investment Management, Online Financial Advisor | Wealthfront",
+        "description": "Wealthfront manages your investments for you online. We personalize, diversify, rebalance low-fee Individual, IRA, Roth IRA & 401(k) rollover accounts.",
+        "image": "https://d1rthi4uscpmfy.cloudfront.net/assets/roswell/logos/logo-light-85e2a7812e3f9a9d0bab500dda466354.png",
+        "type": "website",
+        "url": "https://www.wealthfront.com/"
+      },
+      "title": "Investment Management, Online Financial Advisor | Wealthfront"
+    }
+  },
+  {
+    "brand": "Credit Karma",
+    "site": "https://www.creditkarma.com/",
+    "logo": "https://creditkarmacdn-a.akamaihd.net/ckfiles.com/assets/69657661538/res/images/logos/ck-logo-upswing.svg",
+    "market": "Finance",
+    "tactic": "Make a paid product free or very cheap",
+    "siteMeta": {
+      "title": "Free Credit Score &  Free Credit Reports With Monitoring | Credit Karma",
+      "description": "Credit Karma offers free credit scores, reports and insights. Get the info you need to take control of your credit.",
+      "keywords": [
+        "Free Credit Score",
+        "Check Credit Report",
+        "Check Credit Reports",
+        "Online Credit Report",
+        "Free Credit Check",
+        "Credit Report",
+        "Credit Reports",
+        "Credit Score",
+        "Credit Scores",
+        "Credit History",
+        "Credit Manager",
+        "Credit Checks",
+        "Credit Karma",
+        "Credit",
+        "Score"
+      ]
+    }
+  },
+  {
+    "brand": "Lending Club",
+    "site": "https://www.lendingclub.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c1/LendingClub_logo.jpg",
+    "market": "Finance",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "title": "The Leader in Peer to Peer Lending: Loans and Investing | Lending Club",
+      "description": "Lending Club is America's #1 credit marketplace. Apply for a low, fixed rate personal loan or invest to earn solid returns."
+    }
+  },
+  {
+    "brand": "Robinhood",
+    "site": "https://www.robinhood.com/",
+    "logo": "http://howardlindzon.com/wp-content/uploads/2016/01/robinhood-logo-green.png",
+    "market": "Finance",
+    "tactic": "Build it as mobile-native",
+    "siteMeta": {
+      "fb": {
+        "appId": "674753905956192"
+      },
+      "og": {
+        "title": "Robinhood",
+        "description": "Free stock trading. Stop paying up to $10 for every trade.",
+        "image": "https://d2ue93q3u507c2.cloudfront.net/assets/marketing/images/og/robinhood.jpg",
+        "type": "website",
+        "url": "https://www.robinhood.com/"
+      },
+      "title": "Robinhood\n      -\n      Global",
+      "description": "Free stock trading. Stop paying up to $10 for every trade. Robinhood is available now! Signing up takes less than 4 minutes."
+    }
+  },
+  {
+    "brand": "Chain",
+    "site": "https://chain.com/",
+    "logo": "http://ec2-50-19-249-57.compute-1.amazonaws.com/system/companies/138-logo-whiteBG.png?1401492784",
+    "market": "Finance",
+    "tactic": "Apply blockchain",
+    "siteMeta": {
+      "og": {
+        "title": "Chain | Enterprise Blockchain Infrastructure",
+        "description": "The Blockchain Platform for Financial Services.",
+        "url": "https://chain.com/"
+      },
+      "title": "Chain | Enterprise Blockchain Infrastructure",
+      "description": "The Blockchain Platform for Financial Services."
+    }
+  },
+  {
+    "brand": "Stripe",
+    "site": "https://stripe.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Stripe_logo,_revised_2014.png/1280px-Stripe_logo,_revised_2014.png",
+    "market": "Finance",
+    "tactic": "Build a trusted widget / API integration",
+    "siteMeta": {
+      "og": {
+        "title": "Stripe",
+        "description": "Stripe is a suite of APIs that powers commerce for businesses of all sizes.",
+        "image": "https://stripe.com/img/v3/home/social.png",
+        "url": "https://stripe.com/"
+      },
+      "title": "StripeStripe",
+      "description": "Stripe is a suite of APIs that powers commerce for businesses of all sizes."
+    }
+  },
+  {
+    "brand": "Lemonade",
+    "site": "https://www.lemonade.com/",
+    "logo": "http://cdn.crowdfundinsider.com/wp-content/uploads/2015/12/lemonade.png",
+    "market": "Finance",
+    "tactic": "Make it Peer-to-Peer",
+    "siteMeta": {
+      "og": {
+        "title": "Lemonade, The New Renters and Homeowners Insurance for New Yorkers",
+        "description": "Lemonade offers fast and low cost homeowners and renters insurance powered by technology, honest culture, and a commitment to social good. No brokers, no paperwork",
+        "image": "http://www.lemonade.com/assets/lemonade-share-image-ad9d7846f31685bfb4af89f018e4dd5d460f4e73768a8fd500bfc1f069ff853a.png",
+        "url": "http://www.lemonade.com/"
+      },
+      "title": "Lemonade, The New Renters and Homeowners Insurance for New Yorkers",
+      "description": "Lemonade offers fast and low cost homeowners and renters insurance powered by technology, honest culture, and a commitment to social good. No brokers, no paperwork",
+      "keywords": [
+        "insurance",
+        "p2p",
+        "peer-to-peer",
+        "lemonade"
+      ]
+    }
+  },
+  {
+    "brand": "Nubank",
+    "site": "https://www.nubank.com.br/",
+    "logo": "https://www.kaszek.com/wp-content/uploads/2016/03/1nulogo_whitebg.png",
+    "market": "Finance",
+    "tactic": "Target a new or emerging market",
+    "siteMeta": {
+      "og": {
+        "title": "Nubank - A nova geração de serviços financeiros no Brasil",
+        "description": "Para quem sabe que tecnologia e design são melhores do que agências e papelada – tenha controle total dos seus gastos no seu celular com o cartão Nubank Mastercard.",
+        "image": "https://nu-assets.s3.amazonaws.com/bed87e63.nu-cardimage.png",
+        "url": "https://www.nubank.com.br"
+      },
+      "title": "Nubank - A nova geração de serviços financeiros no Brasil",
+      "description": "Para quem sabe que tecnologia e design são melhores do que agências e papelada – tenha controle total dos seus gastos no seu celular com o cartão Nubank MasterCard®."
+    }
+  },
+  {
+    "brand": "ClassPass",
+    "site": "https://classpass.com/",
+    "logo": "http://www.mamachallenge.com/wp-content/uploads/2015/01/CDWN11-e1422601940511.png",
+    "market": "Fitness",
+    "tactic": "Make it a subscription",
+    "siteMeta": {
+      "fb": {
+        "appId": "205050386284699"
+      },
+      "og": {
+        "title": "ClassPass - Work out at the best studios in your city",
+        "image": "https://cdn8.classpass.com/dist/facebook-image-yoga.2992402226c02a69c0fff81a72c61ed8.jpg",
+        "type": "website",
+        "url": "https://classpass.com/"
+      },
+      "title": "ClassPass | The Best Fitness Studios, Classes and Experiences",
+      "description": "The best fitness studios, classes and experiences are on ClassPass. Work out where you want, when you want, and how you want, with one membership."
+    }
+  },
+  {
+    "brand": "Aaptiv",
+    "site": "http://www.aaptiv.com/",
+    "logo": "http://blog.aaptiv.com/wp-content/uploads/2016/11/logo@2x-1.jpg",
+    "market": "Fitness",
+    "tactic": "Produce original and exclusive content",
+    "siteMeta": {
+      "title": "Welcome to Aaptiv!"
+    }
+  },
+  {
+    "brand": "Naked",
+    "site": "https://naked.fit/",
+    "logo": "https://3dprint.com/wp-content/uploads/2016/04/624x624xNaked-Labs_logo_stacked_120pxl-624x624.jpeg.pagespeed.ic_.1sGT-CxU0G.jpg",
+    "market": "Fitness",
+    "tactic": "Streamline a process through tech",
+    "siteMeta": {
+      "og": {
+        "title": "The World's First 3D Fitness Tracker",
+        "description": "The Naked 3D Fitness Tracker is the first home body scanner for fitness. Naked captures your 3D body model, measurements, body fat %, and weight, all trackable over time.",
+        "image": "https://s3.amazonaws.com/naked-labs/og_1200.jpg",
+        "url": "https://naked.fit"
+      },
+      "title": "The World's First 3D Fitness Tracker",
+      "keywords": [
+        "Naked Labs",
+        "Naked 3D",
+        "Naked Scale",
+        "Naked Mirror",
+        "Naked 3D Fitness Tracker",
+        "Nakedlabs",
+        "Nakedlab",
+        "3D Fitness Tracker",
+        "3D Body Scanner",
+        "3D Fitness Scanner",
+        "Naked Scanner",
+        "Naked 3D Scanner",
+        "Weight",
+        "Scale",
+        "Body Scan",
+        "Body model"
+      ]
+    }
+  },
+  {
+    "brand": "Peloton",
+    "site": "https://www.pelotoncycle.com/",
+    "logo": "https://www.filepicker.io/api/file/6kEsU0I7QQGudofNGS6l",
+    "market": "Fitness",
+    "tactic": "Create a new consumption or creation format",
+    "siteMeta": {
+      "title": "Peloton Cycle ®| Exercise Bike With Indoor Cycling Classes Streamed Live & On-Demand",
+      "description": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+      "keywords": [
+        "indoor cycling",
+        "technology",
+        "large screen",
+        "peloton",
+        "Peloton",
+        "ride peloton",
+        "john foley",
+        "indoor cycle",
+        "virtual fitness",
+        "virtual bike"
+      ]
+    }
+  },
+  {
+    "brand": "Fitbit",
+    "site": "https://www.fitbit.com/",
+    "logo": "http://comolivingmag.com/wp-content/uploads/2015/09/Fitbit-logo-on-white.jpg",
+    "market": "Fitness",
+    "tactic": "Build hardware that unlocks new use cases",
+    "siteMeta": {
+      "title": "Fitbit Official Site for Activity Trackers & More",
+      "description": "Find your fit with Fitbit's family of fitness products that help you stay motivated and improve your health by tracking your activity, exercise, food, weight and sleep.",
+      "keywords": [
+        "keywords"
+      ]
+    }
+  },
+  {
+    "brand": "Dollar Shave Club",
+    "site": "https://www.dollarshaveclub.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/69/Dollar_shave_club_logo.png",
+    "market": "CPG",
+    "tactic": "Make it a subscription",
+    "siteMeta": {
+      "fb": {
+        "appId": "294184150666249"
+      },
+      "og": {
+        "image": "http://i3.ytimg.com/vi/ZUG9qYTJMsI/hqdefault.jpg",
+        "type": "video",
+        "url": "http://www.dollarshaveclub.com/"
+      },
+      "title": "Dollar Shave Club - The Original Shave ClubArtboardAMEXDISCOVERMASTERCARDVISA",
+      "description": "Amazing razor blades and grooming products delivered for an affordable price. Get your first month of any razor for just $1. Try the Club today.",
+      "keywords": [
+        "buy razor blades",
+        "buy razors",
+        "buy razors online",
+        "mens razors",
+        "mens razor blades",
+        "razors",
+        "razor blades",
+        "razors online",
+        "quality razors",
+        "cheap razors",
+        "safety razors",
+        "disposable razors",
+        "straight razors",
+        "twin razors",
+        "razors for men"
+      ]
+    }
+  },
+  {
+    "brand": "HUBBLE",
+    "site": "https://www.hubblecontacts.com/",
+    "logo": "https://cdn.shopify.com/s/files/1/1516/5228/t/2/assets/full_logo_red.svg?13844067261394532726",
+    "market": "CPG",
+    "tactic": "Build a vertical brand",
+    "siteMeta": {
+      "og": {
+        "title": "Hubble",
+        "description": "Daily contacts. Half the price. First box free.",
+        "type": "website",
+        "url": "https://www.hubblecontacts.com/"
+      },
+      "title": "Daily contacts. Half the price. First box free.",
+      "description": "Daily lenses. Half the price."
+    }
+  },
+  {
+    "brand": "Harry's",
+    "site": "https://www.harrys.com/",
+    "logo": "https://cdn.shopify.com/s/files/1/0116/6732/files/harrys-logo_9051.jpg?5697",
+    "market": "CPG",
+    "tactic": "Remove features to launch a simpler/better product",
+    "siteMeta": {
+      "title": "Harry's - Quality Men’s Shaving Products. Fair Prices. Simple.",
+      "description": "Shaving is evolving. Never buy overpriced razors again. Get Harry's German engineered blades and shaving cream online for a fair price.",
+      "keywords": [
+        "buy razor blades",
+        "buy razors",
+        "buy razors online",
+        "mens razors",
+        "mens razor blades",
+        "razors",
+        "razor blades",
+        "razors online",
+        "quality razors",
+        "cheap razors",
+        "razors for men",
+        "shave",
+        "shaving",
+        "accessories",
+        "harry's",
+        "harry's razors",
+        "harry's shaving",
+        "truman",
+        "winston",
+        "shaving",
+        "shaving cream",
+        "give a shave"
+      ]
+    }
+  },
+  {
+    "brand": "Evernote",
+    "site": "https://evernote.com/",
+    "logo": "https://evernote.com/media/img/logos/evernote_logo_center_4c-lrg.png",
+    "market": "Productivity",
+    "tactic": "Bring an offline behavior online",
+    "siteMeta": {
+      "og": {
+        "title": "Capture what’s on your mind",
+        "description": "Collect, nurture, and share ideas across desktop and mobile platforms with Evernote. Your thoughts are always with you, always accessible, always in sync.",
+        "image": "https://cdn1.evernote.com/evernote.com/img/social-meta/Homepage.jpg",
+        "type": "website",
+        "url": "https://evernote.com/"
+      },
+      "title": "Capture what’s on your mind | Evernote",
+      "description": "Collect, nurture, and share ideas across desktop and mobile platforms with Evernote. Your thoughts are always with you, always accessible, always in sync."
+    }
+  },
+  {
+    "brand": "Dropbox",
+    "site": "https://www.dropbox.com/",
+    "logo": "https://cfl.dropboxstatic.com/static/images/brand/logotype-vflHjIsop.svg",
+    "market": "Productivity",
+    "tactic": "Streamline a process through tech",
+    "siteMeta": {
+      "fb": {
+        "appId": "210019893730"
+      },
+      "og": {
+        "title": "Dropbox",
+        "description": "Dropbox simplifies the way you create, share and collaborate. Bring your photos, docs, and videos anywhere and keep your files safe.",
+        "image": "https://cfl.dropboxstatic.com/static/images/brand/glyph@2x-vflJ1vxbq.png",
+        "type": "website",
+        "url": "https://www.dropbox.com/"
+      },
+      "title": "Dropbox",
+      "description": "Dropbox simplifies the way you create, share and collaborate. Bring your photos, docs, and videos anywhere and keep your files safe.",
+      "keywords": [
+        "online storage",
+        "free storage",
+        "file sharing",
+        "share files",
+        "awesome",
+        "cloud storage",
+        "online backup",
+        "cross platform",
+        "sync",
+        "sharing",
+        "mac",
+        "windows",
+        "os x",
+        "linux",
+        "backup",
+        "collaboration",
+        "file versioning",
+        "file revisions",
+        "remote access",
+        "undelete"
+      ]
+    }
+  },
+  {
+    "brand": "Slack",
+    "site": "https://slack.com/",
+    "logo": "https://brandfolder.com/slack/logo/slack-primary-logo.png",
+    "market": "Productivity",
+    "tactic": "Create a new consumption or creation format",
+    "siteMeta": {
+      "og": {
+        "title": "Slack: Where work happens",
+        "description": "Slack brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.",
+        "image": "https://slack.com/img/slack_hash_128.v1464126652.png",
+        "type": "website"
+      },
+      "title": "Slack: Where work happens",
+      "description": "Slack brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.",
+      "author": "Slack"
+    }
+  },
+  {
+    "brand": "Quip",
+    "site": "https://quip.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/72/Quip_company_logo.png",
+    "market": "Productivity",
+    "tactic": "Build it as mobile-native",
+    "siteMeta": {
+      "title": "Quip",
+      "description": "Quip changes the way teams work together. Real work gets done, faster, smarter."
+    }
+  },
+  {
+    "brand": "Ozlo",
+    "site": "https://www.ozlo.ai/",
+    "logo": "https://s3.amazonaws.com/owler-image/logo/ozlo_owler_20160607_023713_original.png",
+    "market": "Productivity",
+    "tactic": "Use AI to create an assistant or other unique product",
+    "siteMeta": {
+      "fb": {
+        "appId": "329453900725491"
+      },
+      "og": {
+        "title": "Ozlo",
+        "description": "Ozlo, the friendly assistant who helps you get things done!",
+        "image": "https://cdn.ozlo.com/websiteAssets/meta-tags/fb-shared-link-content-image-d3741bab610ce9d1985ea03f7e549772@2x.png",
+        "type": "website",
+        "url": "https://www.ozlo.com"
+      },
+      "title": "Ozlo"
+    }
+  },
+  {
+    "brand": "IFTTT",
+    "site": "https://ifttt.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/IFTTT_Logo.svg/2000px-IFTTT_Logo.svg.png",
+    "market": "Productivity",
+    "tactic": "Build a software management layer",
+    "siteMeta": {
+      "fb": {
+        "appId": "122259781154546"
+      },
+      "og": {
+        "title": "IFTTT",
+        "description": "IFTTT helps you do more with the services you love. Connect Amazon Alexa, Facebook, Twitter, Instagram, Fitbit, Slack, Skype, and hundreds more.",
+        "image": "https://web-assets.ifttt.com/images/og_ifttt_logo.png",
+        "type": "website"
+      },
+      "title": "Learn how IFTTT works - IFTTTIFTTT",
+      "description": "IFTTT helps you do more with the services you love. Connect Amazon Alexa, Facebook, Twitter, Instagram, Fitbit, Slack, Skype, and hundreds more.",
+      "keywords": [
+        "ifttt applets services recipes triggers actions channels if this then that ifthisthenthat tasks task create creative connect connections do button camera note notepad"
+      ]
+    }
+  },
+  {
+    "brand": "53",
+    "site": "http://www.fiftythree.com/",
+    "logo": "http://www.fiftythree.com/assets/images/logos/53-dark.svg",
+    "market": "Productivity",
+    "tactic": "Build hardware that unlocks new use cases",
+    "siteMeta": {
+      "og": {
+        "title": "Paper & Pencil by FiftyThree",
+        "description": "When you need to get something down fast, Paper is ready. Free for iPhone and iPad.",
+        "image": "http://fiftythree.com/assets/images/paper/paper-og.jpg",
+        "url": "http://www.fiftythree.com/paper"
+      },
+      "title": "Paper & Pencil by FiftyThree",
+      "description": "FiftyThree builds tools for mobile creation. Our first product, Paper, is the easiest and most beautiful way to create on the iPad and iPhone. FiftyThree is the space to create."
+    }
+  },
+  {
+    "brand": "Shutterstock",
+    "site": "https://www.shutterstock.com/",
+    "logo": "https://accounts.shutterstock.com/assets/images/ss-logo-color-2x.png",
+    "market": "Photos",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "title": "Stock Photos, Royalty-Free Images and Vectors - Shutterstock",
+      "description": "Search millions of royalty-free stock photos, illustrations, and vectors. Get inspired by ten thousand new, high-resolution images added daily."
+    }
+  },
+  {
+    "brand": "Instagram",
+    "site": "https://www.instagram.com/",
+    "logo": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2013/05/Screen-Shot-2013-05-02-at-2.27.45-PM-730x300.png",
+    "market": "Photos",
+    "tactic": "Build it as mobile-native",
+    "siteMeta": {
+      "fb": {
+        "appId": "124024574287414"
+      },
+      "og": {
+        "title": "Instagram",
+        "image": "/static/images/ico/favicon-200.png/a0d593d4e9d5.png",
+        "url": "https://instagram.com/"
+      },
+      "title": "Instagram"
+    }
+  },
+  {
+    "brand": "Prisma",
+    "site": "http://prisma-ai.com/",
+    "logo": "https://cdn.xtremerain.com/wp-content/uploads/2016/08/prisma-logo-HD.jpg",
+    "market": "Photos",
+    "tactic": "Use AI to create an assistant or other unique product",
+    "siteMeta": {
+      "og": {
+        "title": "Prisma",
+        "description": "Prisma transforms your photos into artworks using the styles of famous artists: Van Gogh, Picasso, Levitan, as well as world famous ornaments and patterns.",
+        "image": "http://www.prisma-ai.com/og-image.jpg"
+      },
+      "title": "Prisma"
+    }
+  },
+  {
+    "brand": "Simple Habit",
+    "site": "https://www.simplehabit.com/",
+    "logo": "http://dl1.cbsistatic.com/i/2016/08/12/313e5483-a504-4bcb-a0d4-98de152527af/2c43526601bbce217ef119c9b115730c/imgingest-7118995974045370538.png",
+    "market": "Mental Health",
+    "tactic": "Make it a subscription",
+    "siteMeta": {
+      "og": {
+        "title": "Simple Habit | Modern Mindfulness for Your Busy Life",
+        "image": "https://www.simplehabitapp.com/static/images/og_default_image.png"
+      },
+      "title": "Simple Habit | Modern Mindfulness for Your Busy Life",
+      "description": "Designed by a team of Harvard psychologists and meditation experts, Simple Habit meditations are 5 minutes and personalized for all kinds of life situations"
+    }
+  },
+  {
+    "brand": "Headspace",
+    "site": "https://www.headspace.com/",
+    "logo": "http://simuddell.com/wp-content/uploads/2014/05/headspace.png",
+    "market": "Mental Health",
+    "tactic": "Produce original and exclusive content",
+    "siteMeta": {
+      "title": "Headspace - Meditation made simple",
+      "description": "Live a happier, healthier life with just 10 minutes of meditation a day on the Headspace app."
+    }
+  },
+  {
+    "brand": "Joyable",
+    "site": "https://joyable.com/",
+    "logo": "https://daks2k3a4ib2z.cloudfront.net/572a4404d6c4eb236f23595a/572a68ed6e747aa53d8ecf5f_BARREL_Joyable-small-sec-3.png",
+    "market": "Mental Health",
+    "tactic": "Make it a service",
+    "siteMeta": {
+      "og": {
+        "title": "Joyable: Online Social Anxiety Program Based on CBT",
+        "description": "Joyable is the most effective and affordable online solution for overcoming social anxiety, based on Cognitive Behavioral Therapy (CBT) and 1-on-1 coaching.",
+        "image": "https://production-assets.joyable.com/assets/logo-2x-a3d0eb271a2e17dfe2e83c3549e791b3.png",
+        "type": "website",
+        "url": "https://joyable.com"
+      },
+      "title": "Joyable: Online Social Anxiety Program Based on CBT",
+      "description": "Joyable is the most effective and affordable online solution for overcoming social anxiety, based on Cognitive Behavioral Therapy (CBT) and 1-on-1 coaching."
+    }
+  },
+  {
+    "brand": "Zocdoc",
+    "site": "https://www.zocdoc.com/",
+    "logo": "http://www.underconsideration.com/brandnew/archives/zocdoc_logo.png",
+    "market": "Healthcare",
+    "tactic": "Create a marketplace"
+  },
+  {
+    "brand": "Oscar",
+    "site": "https://www.hioscar.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/Oscar_Health_logo.svg",
+    "market": "Healthcare",
+    "tactic": "Offer loans or insurance",
+    "siteMeta": {
+      "title": "Oscar | Smart, simple health insurance."
+    }
+  },
+  {
+    "brand": "Forward",
+    "site": "https://goforward.com/",
+    "logo": "https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_140,w_140/v1479522120/q1byy7vwt9bxpj1tap7o.png",
+    "market": "Healthcare",
+    "tactic": "Create a full-stack offering",
+    "siteMeta": {
+      "og": {
+        "title": "Forward | Design Your Health",
+        "description": "Forward is a health membership giving you access to world-class doctors and new technology to manage your health",
+        "image": "https://s3-us-west-2.amazonaws.com/goforward-resources/marketing/front-of-house.jpg",
+        "url": "https://goforward.com"
+      },
+      "title": "Forward | Design Your Health",
+      "description": "Forward is a health membership that combines access to a personal doctor with our technology to provide a new health experience."
+    }
+  },
+  {
+    "brand": "Compass",
+    "site": "https://www.compass.com/",
+    "logo": "https://static1.squarespace.com/static/516c687de4b00f416237be7e/t/560fed33e4b09e1a44ea7f0d/1443884340316/Compass-Real-Estate-RETech.png",
+    "market": "Real Estate",
+    "tactic": "Bring an offline behavior online",
+    "siteMeta": {
+      "title": "Compass - Find A Home You Love\nCompass",
+      "description": "Compass helps you find a great neighborhood and place to live in New York City. Search NYC Real Estate For Sale. Browse listings and photos of condos and co-ops to find your perfect home."
+    }
+  },
+  {
+    "brand": "Breather",
+    "site": "https://breather.com/",
+    "logo": "http://www.almoffice.ca/wp-content/uploads/2015/10/breather-logo.jpg",
+    "market": "Real Estate",
+    "tactic": "Make it on demand",
+    "siteMeta": {
+      "fb": {
+        "appId": "308880455919650"
+      },
+      "og": {
+        "title": "Breather -- A space to work, meet and focus",
+        "description": "Book peaceful, practical spaces whenever you need them",
+        "image": "https://breather.com/img/misc/fb-share.jpg",
+        "url": "https://breather.com/"
+      },
+      "title": "Meeting rooms on demand & short term office space."
+    }
+  },
+  {
+    "brand": "Blue Apron",
+    "site": "https://www.blueapron.com/",
+    "logo": "https://p5.zdassets.com/hc/theme_assets/253623/200041337/BA_logo-02_STACKED.png",
+    "market": "Cooking",
+    "tactic": "Enable easier creation",
+    "siteMeta": {
+      "fb": {
+        "appId": "268433919926057"
+      },
+      "title": "Blue Apron: Fresh Ingredients, Original Recipes, Delivered to YouBAP_1601_Farmer1_V2BAP_1601_Cooking3_V2BAP_1601_Delivery2_V2BAP_1601_Cooking3_V2",
+      "description": "Blue Apron makes cooking fun and easy. We'll provide you with all the ingredients that you need to make a delicious meal in exactly the right proportions."
+    }
+  },
+  {
+    "brand": "Nom",
+    "site": "https://nom.com/",
+    "logo": "https://photos.prnewswire.com/prnvar/20160309/342306LOGO",
+    "market": "Cooking",
+    "tactic": "Build a UGC community",
+    "siteMeta": {
+      "og": {
+        "image": "/img/favicons/favicon-96x96.png"
+      },
+      "title": "Nom – Live Stories on Food and Cooking.",
+      "description": "Nom - live stories about food and cooking, from chefs, makers and creators. Nom Live is available now for iOS and Android, on the App Store and Google Play."
+    }
+  },
+  {
+    "brand": "Instacart",
+    "site": "https://www.instacart.com/",
+    "logo": "http://whatpixel.com/images/2016/01/instacart-logo-redesign-rebrand-2016.jpg",
+    "market": "Food & Drink",
+    "tactic": "Bring an offline behavior online",
+    "siteMeta": {
+      "fb": {
+        "appId": "407409359279969"
+      },
+      "og": {
+        "title": "Instacart: Groceries Delivered From Local Stores",
+        "description": "Instacart delivers groceries from local stores in two hours. Choose from stores like Whole Foods Market, Target, Costco and Petco. Try us today for free.",
+        "image": "https://d2guulkeunn7d8.cloudfront.net/assets/beetstrap/social/Instacart_Share_Banner_3-bc1e8b71e513ecb7e184dd0f41b71468.jpg",
+        "type": "Website",
+        "url": "https://www.instacart.com"
+      },
+      "title": "Instacart: Groceries Delivered From Local Stores",
+      "description": "Instacart delivers groceries from local stores in two hours. Choose from stores like Whole Foods Market, Target, Costco and Petco. Try us today for free."
+    }
+  },
+  {
+    "brand": "Hungryroot",
+    "site": "https://www.hungryroot.com/",
+    "logo": "http://zelkovavc.com/wp-content/uploads/2015/05/hungryroot-logo.png",
+    "market": "Food & Drink",
+    "tactic": "Build a vertical brand",
+    "siteMeta": {
+      "fb": {
+        "appId": "1475543722711540"
+      },
+      "og": {
+        "title": "Hungryroot",
+        "description": "Check out Hungryroot's fresh simply craveable foods. Under 500 calories, ready in under 7 minutes.",
+        "image": "https://www.hungryroot.com/public/img/facebook_share.jpg",
+        "type": "website"
+      },
+      "title": "Hungryroot: Fresh, healthy comfort foods",
+      "description": "Indulge in simply craveable foods like Sweet Potato Mac and Cheese, Carrot Noodle Pad Thai and Almond Chickpea Cookie Dough. Plant-based, high in nutrients, fiber and good fats, under 500 calories, gluten-free and preservative-free.",
+      "keywords": [
+        "Hungryroot"
+      ]
+    }
+  },
+  {
+    "brand": "Slice",
+    "site": "http://slicelife.com/",
+    "logo": "https://pbs.twimg.com/profile_images/786149771283226624/8zsbj0DQ.jpg",
+    "market": "Restaurants & Delivery",
+    "tactic": "Aggregate the long tail and drive discovery",
+    "siteMeta": {
+      "og": {
+        "title": "Easily order from authentic local pizzerias.",
+        "image": "http://d15gxu7ovfe8pd.cloudfront.net/assets/meta_image_1200_630-1da8a9a606ea9083c4c2e08b04553f0e5f70b71de177bfe0915daec4043f2c9e.jpg"
+      },
+      "title": "Slice - Order Pizza Online, Find Pizza Restaurants, Pizza Menu, Pizza Delivery",
+      "description": "Slice is the easiest way to order your favorite local pizza. We connect millions of pizza lovers with thousands of pizzerias across the country."
+    }
+  },
+  {
+    "brand": "Grubhub",
+    "site": "https://www.grubhub.com/",
+    "logo": "http://s2.q4cdn.com/723557020/files/Grubhub-logo-inverted-251by107px@2x.png",
+    "market": "Restaurants & Delivery",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "og": {
+        "title": "Grubhub food delivery is not available in your country",
+        "description": "Free online ordering from restaurants near you! With more than 30,000 restaurants in 500+ cities, food delivery or takeout is just a click away. Because with Grubhub: Click, click, food!",
+        "type": "website",
+        "url": "https://grubhub.com/about/error/out-of-country"
+      },
+      "title": "Grubhub food delivery is not available in your country",
+      "description": "Free online ordering from restaurants near you! With more than 30,000 restaurants in 500+ cities, food delivery or takeout is just a click away. Because with Grubhub: Click, click, food!"
+    }
+  },
+  {
+    "brand": "Postmates",
+    "site": "https://postmates.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/Postmates_logo.png",
+    "market": "Restaurants & Delivery",
+    "tactic": "Make it on demand"
+  },
+  {
+    "brand": "Deliveroo",
+    "site": "https://deliveroo.co.uk/",
+    "logo": "http://uk.deliveroo.puzzlelondon.co.uk/blog/wp-content/uploads/sites/2/2016/09/PREFERRED-VERSION-Deliveroo-Logo_Full_CMYK_Teal_edit.png",
+    "market": "Restaurants & Delivery",
+    "tactic": "Target a new or emerging market",
+    "siteMeta": {
+      "og": {
+        "title": "Deliveroo",
+        "description": "Get amazing food from an incredible selection of local restaurants delivered in about 30 minutes.",
+        "image": "https://deliveroo.co.uk/assets/images/l10n/en/social_media.png",
+        "url": "https://deliveroo.co.uk/"
+      },
+      "title": "Takeaway Delivery from Premium Restaurants near you - Deliveroo",
+      "description": "Order high-quality takeaway online from top UK restaurants, fast delivery straight to your home or office"
+    }
+  },
+  {
+    "brand": "Honor",
+    "site": "https://www.joinhonor.com/",
+    "logo": "http://photos.prnewswire.com/prn/20160808/396236LOGO/Honor-Senior-Care-Logo",
+    "market": "Seniors",
+    "tactic": "Make it a service",
+    "siteMeta": {
+      "og": {
+        "type": "website"
+      },
+      "title": "In Home Care Your Family Will Love | Honor",
+      "description": "Honor provides in-home senior care helping older adults continue to live well in the home they love. The best caregivers are Honor Care Pros."
+    }
+  },
+  {
+    "brand": "Dark Sky",
+    "site": "https://darksky.net/",
+    "logo": "https://s-media-cache-ak0.pinimg.com/236x/28/20/03/2820030de815cf05349356e6ec499c2a.jpg",
+    "market": "Weather",
+    "tactic": "Build it as mobile-native",
+    "siteMeta": {
+      "og": {
+        "title": "Weather",
+        "description": "Dark Sky is the most accurate source of hyperlocal weather information: with down-to-the-minute forecasts for your exact location, you'll never get caught in the rain again. (It's like magic!)",
+        "image": "https://darksky.net/images/logo.png",
+        "type": "website"
+      },
+      "title": "Dark Sky"
+    }
+  },
+  {
+    "brand": "The Climate Corporation",
+    "site": "https://www.climate.com/",
+    "logo": "http://mms.businesswire.com/media/20160817005298/en/539840/5/TCC_Hex_4Color_LRG.jpg",
+    "market": "Weather",
+    "tactic": "Offer loans or insurance",
+    "siteMeta": {
+      "og": {
+        "title": "Data Driven Digital Agriculture to Help Increase Farming Productivity",
+        "description": "The Climate Corporation aims to help all the world’s farmers sustainably increase productivity of their farming operations.",
+        "image": "https://www.climate.com/static/global/assets/static/img/home/screenshot_phone-c5f0ad7c.jpg",
+        "type": "website",
+        "url": "https://www.climate.com"
+      },
+      "title": "Data Driven Digital Agriculture to Help Increase Farming Productivity",
+      "description": "The Climate Corporation aims to help all the world’s farmers sustainably increase productivity of their farming operations."
+    }
+  },
+  {
+    "brand": "Hired",
+    "site": "https://hired.com/",
+    "logo": "https://s3.amazonaws.com/tdhq-company-logos/companies/logos/000/000/603/original/hired-light-padding-short.png?1470758499",
+    "market": "Careers & Hiring",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "fb": {
+        "appId": "341938729194248"
+      },
+      "og": {
+        "title": "Hired - Job Search Marketplace. Job Hunting Simplified!",
+        "description": "With Hired your job search has never been easier! Simply create a profile & vetted companies compete for you, reaching out with salary & equity upfront.",
+        "image": "https://hired.com/assets/social-logo-large-c929a8394b6ac64a8c95ce923341f450be8bf3bc782ba4353735d749147eb07f.png",
+        "type": "website",
+        "url": "https://hired.com/"
+      },
+      "title": "Hired - Job Search Marketplace. Job Hunting Simplified!dropdown arrow copy 2dropdown arrow copy 2",
+      "description": "With Hired your job search has never been easier! Simply create a profile & vetted companies compete for you, reaching out with salary & equity upfront."
+    }
+  },
+  {
+    "brand": "Glassdoor",
+    "site": "https://www.glassdoor.com/",
+    "logo": "https://press-content.glassdoor.com/app/uploads/sites/2/2015/04/GD-logo-green-on-white-01.jpg",
+    "market": "Careers & Hiring",
+    "tactic": "Build a UGC community",
+    "siteMeta": {
+      "fb": {
+        "appId": "129253937150340"
+      },
+      "og": {
+        "title": "Glassdoor Job Search | Find a job you'll love",
+        "description": "Search millions of jobs and get the inside scoop on companies with employee reviews, personalized salary tools, and more. Hiring? Post a job for free.",
+        "image": "https://static.glassdoor.com/static/img/partners/fb/logo-1200x630.png?v=b8dbc1je1",
+        "type": "website",
+        "url": "https://www.glassdoor.com/index.htm"
+      },
+      "title": "Glassdoor Job Search | Find a job you'll love",
+      "description": "Search millions of jobs and get the inside scoop on companies with employee reviews, personalized salary tools, and more. Hiring? Post a job for free."
+    }
+  },
+  {
+    "brand": "Thumbtack",
+    "site": "https://www.thumbtack.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/ThumbtackLogo.svg/1280px-ThumbtackLogo.svg.png",
+    "market": "Local Services",
+    "tactic": "Aggregate the long tail and drive discovery",
+    "siteMeta": {
+      "fb": {
+        "appId": "131357050011"
+      },
+      "og": {
+        "title": "Thumbtack - Consider it done",
+        "description": "Thumbtack is the destination for getting things done. Just tell us what you need and we’ll deliver up to five custom quotes from local pros ready to help.",
+        "image": "https://static5.thumbtackstatic.com/media/logos/thumbtack_logomark_200x200.png",
+        "type": "website",
+        "url": "https://www.thumbtack.com/"
+      },
+      "title": "Thumbtack - Consider it done",
+      "description": "Thumbtack is the destination for getting things done. Just tell us what you need and we’ll deliver up to five custom quotes from local pros ready to help."
+    }
+  },
+  {
+    "brand": "Handy",
+    "site": "https://www.handy.com/",
+    "logo": "http://core0.staticworld.net/images/article/2014/09/handy_logo-100435695-large.jpg",
+    "market": "Local Services",
+    "tactic": "Make it on demand",
+    "siteMeta": {
+      "og": {
+        "description": "Flexible plans designed around your schedule. Choose your own professional. All supplies included."
+      },
+      "title": "Handy | Instant Booking of Cleaning & Other Services",
+      "description": "Flexible plans designed around your schedule. Choose your own professional. All supplies included.",
+      "author": "Handy"
+    }
+  },
+  {
+    "brand": "Waze",
+    "site": "https://www.waze.com/",
+    "logo": "https://www.waze.com/assets/press/logo@2x-1fe7fea8f69b97707a15e0e5f336d422.png",
+    "market": "Transportation",
+    "tactic": "Build it as mobile-native",
+    "siteMeta": {
+      "og": {
+        "image": "https://d1oiazdc2hzjcz.cloudfront.net/website/share-image.png"
+      },
+      "title": "Free Community-based Mapping, Traffic & Navigation App",
+      "description": "Waze is the world's largest community based traffic and navigation app. Join other drivers in your area who share real-time traffic and road info, saving everyone time and gas money on their daily commute.",
+      "keywords": [
+        "free gps",
+        "free pgs navigation",
+        "free iphone app",
+        "free android app",
+        "real time maps",
+        "free turn by turn",
+        "traffic jams",
+        "turn by turn gps"
+      ]
+    }
+  },
+  {
+    "brand": "Uber",
+    "site": "https://www.uber.com/",
+    "logo": "http://static4.businessinsider.com/image/56b10e64c08a80431d8bc158-326-163/uber_logobit_digital_white.png",
+    "market": "Transportation",
+    "tactic": "Make it on demand",
+    "siteMeta": {
+      "fb": {
+        "appId": "277064115737714"
+      },
+      "og": {
+        "title": "Sign Up to Drive or Tap and Ride",
+        "description": "We’re finding better ways for cities to move, work, and thrive. Download the app  and get a ride in minutes. Or become a driver and earn money on your schedule.",
+        "image": "https://d1a3f4spazzrp4.cloudfront.net/uber-com/1.2.19/d1a3f4spazzrp4.cloudfront.net/images/facebook-shareimage-1-c3462391c9.jpg",
+        "url": "https://www.uber.com/en-UA/"
+      },
+      "title": "Sign Up to Drive or Tap and Ride | Uber",
+      "description": "We’re finding better ways for cities to move, work, and thrive. Download the app  and get a ride in minutes. Or become a driver and earn money on your schedule.",
+      "keywords": [
+        "meta.keywords"
+      ]
+    }
+  },
+  {
+    "brand": "Lyft",
+    "site": "https://www.lyft.com/",
+    "logo": "http://thepowershot.com/wp-content/uploads/2015/10/lyft-logo-facebook.jpg",
+    "market": "Transportation",
+    "tactic": "Make it Peer-to-Peer",
+    "siteMeta": {
+      "fb": {
+        "appId": "275560259205767"
+      },
+      "og": {
+        "title": "A Ride in Minutes",
+        "description": "Request a ride and you’ll be on your way in minutes. Download. Request. Ride.",
+        "image": "https://cdn.lyft.com/brochure/images/lyft-amp-illo-1200x630.png",
+        "type": "website"
+      },
+      "title": "A ride whenever you need one - Lyft",
+      "description": "Rideshare with Lyft. Lyft is your friend with a car, whenever you need one. Download the app and get a ride from a friendly driver within minutes.",
+      "author": "Lyft, Inc."
+    }
+  },
+  {
+    "brand": "GIPHY",
+    "site": "http://giphy.com/",
+    "logo": "http://ec2-50-19-249-57.compute-1.amazonaws.com/system/companies/158-logo-giphy_l.jpg?1400273381",
+    "market": "Communication",
+    "tactic": "Aggregate the long tail and drive discovery",
+    "siteMeta": {
+      "fb": {
+        "appId": "406655189415060"
+      },
+      "og": {
+        "title": "GIPHY | Search All the GIFs & Make Your Own Animated GIF",
+        "description": "GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more.",
+        "image": "http://giphy.com/static/img/giphy_logo_square_social.png",
+        "type": "website",
+        "url": "http://giphy.com/"
+      },
+      "title": "GIPHY | Search All the GIFs & Make Your Own Animated GIF",
+      "description": "GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more.",
+      "author": "GIPHY",
+      "keywords": [
+        "GIF search engine",
+        "GIF search engine",
+        "animated GIFs",
+        "best GIFs",
+        "GIF",
+        "GIFs",
+        "funny GIFs",
+        "movie GIFs",
+        "tv GIFs",
+        "reaction GIFs",
+        "cat GIFs",
+        "girl GIFs",
+        "happy GIFs",
+        "breaking bad GIFs",
+        "anime GIFs",
+        "sad GIFs",
+        "fail GIFs",
+        "star wars GIFs",
+        "memes",
+        "yes GIFs",
+        "no GIFs",
+        "create GIFs",
+        "GIF maker"
+      ]
+    }
+  },
+  {
+    "brand": "WhatsApp",
+    "site": "https://www.whatsapp.com/",
+    "logo": "https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/062015/whatsapp_logo.jpg?itok=0OJT0IcZ",
+    "market": "Communication",
+    "tactic": "Make it a subscription",
+    "siteMeta": {
+      "og": {
+        "title": "WhatsApp",
+        "description": "WhatsApp Messenger: More than 1 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.",
+        "image": "https://www.cdn.whatsapp.net/img/v4/whatsapp-promo.png?v=f540932"
+      },
+      "title": "WhatsApp",
+      "description": "WhatsApp Messenger: More than 1 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world."
+    }
+  },
+  {
+    "brand": "Snapchat",
+    "site": "https://www.snapchat.com/",
+    "logo": "http://www.logospike.com/wp-content/uploads/2014/11/Snapchat_logo.jpg",
+    "market": "Communication",
+    "tactic": "Create a new consumption or creation format",
+    "siteMeta": {
+      "og": {
+        "title": "Snapchat",
+        "description": "Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover. Life's more fun when you live in the moment!",
+        "image": "https://www.snapchat.com/global/social-lg.jpg",
+        "url": "https://www.snapchat.com"
+      },
+      "title": "Snapchat",
+      "description": "Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover. Life's more fun when you live in the moment!",
+      "keywords": [
+        "snapchat"
+      ]
+    }
+  },
+  {
+    "brand": "AltspaceVR",
+    "site": "https://altvr.com/",
+    "logo": "http://bostonvr.org/wp-content/uploads/2016/03/colorLogo-altspaceVR.png",
+    "market": "Communication",
+    "tactic": "Build an AR/VR app",
+    "siteMeta": {
+      "og": {
+        "title": "Be there, together.",
+        "description": "Experience the web, from anywhere, with anyone, through virtual reality",
+        "image": "https://altvr.com/wp-content/uploads/2014/12/mobile-hero-2.jpg",
+        "url": "http://altvr.com/"
+      },
+      "title": "AltspaceVR Inc | Be there, together.",
+      "description": "Our best experiences are shared",
+      "author": "AltspaceVR"
+    }
+  },
+  {
+    "brand": "Skype",
+    "site": "https://www.skype.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Skype_logo.svg/2000px-Skype_logo.svg.png",
+    "market": "Communication",
+    "tactic": "Make it Peer-to-Peer"
+  },
+  {
+    "brand": "StyleSeat",
+    "site": "https://www.styleseat.com/",
+    "logo": "https://d1vwnfeb9fby91.cloudfront.net/public/tumblr_assets/img/StyleSeat.Logo.Web.png",
+    "market": "Beauty & Health",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "fb": {
+        "appId": "111891482183773"
+      },
+      "og": {
+        "description": "StyleSeat is the online destination for beauty & wellness professionals and clients. Professionals can showcase their work, connect with new and existing clients, and build their business. Clients can discover new services and providers, book appointments online, and get inspired",
+        "image": "https://d4u5qzkfpc9yt.cloudfront.net/images/styleseat.9ac8638dcd47f7849189397ea75cfa0fac03ef57.png",
+        "type": "website"
+      },
+      "title": "StyleSeat - Online Booking for Hair Stylists & Beauty Professionals",
+      "description": "StyleSeat is the online destination for beauty & wellness professionals and clients. Professionals can showcase their work, connect with new and existing clients, and build their business. Clients can discover new services and providers, book appointments online, and get inspired"
+    }
+  },
+  {
+    "brand": "Glossier",
+    "site": "https://www.glossier.com/",
+    "logo": "http://maniacmagazine.com/wp-content/uploads/2016/05/glossier-logo.-maniac-magazine.jpg",
+    "market": "Beauty & Health",
+    "tactic": "Build a vertical brand",
+    "siteMeta": {
+      "title": "A Beauty Brand Inspired by Real Life | Glossier",
+      "description": "We're creating the new essentials: easy-to-use skincare and makeup that form the backbone to your unique beauty routine. Exclusively at Glossier.com"
+    }
+  },
+  {
+    "brand": "Bevel",
+    "site": "https://getbevel.com/",
+    "logo": "https://www.filepicker.io/api/file/fjgSxvpvSJiaLUkmMlFF",
+    "market": "Beauty & Health",
+    "tactic": "Target a specific segment of the market",
+    "siteMeta": {
+      "og": {
+        "title": "Bevel",
+        "description": "The first and only end-to-end shaving system specifically designed to help prevent razor bumps and ingrown hairs while giving you a closer, smoother shave.",
+        "image": "http://d2eviij4jzlx1p.cloudfront.net/assets/fb_bevelshare0-a5d2195fc051e5caaf6fed7cdc1b73f9.jpg",
+        "type": "website",
+        "url": "https://getbevel.com/"
+      },
+      "title": "Bevel Shave System and Trimmer | BevelPage 1 Copy 10Path 139 Copy 23Page 1 Copy 2Path 139 Copy 23",
+      "description": "The first end-to-end shaving system designed to help prevent razor bumps and irritation from shaving. Get clearer, smoother skin within four weeks.",
+      "keywords": [
+        "bevel",
+        "razor",
+        "razors",
+        "blade",
+        "blades",
+        "shave",
+        "shaver",
+        "shaving",
+        "priming oil",
+        "aftershave",
+        "shaving brush",
+        "shave cream",
+        "badger brush",
+        "restoring balm",
+        "best razor",
+        "best blade",
+        "bevel razor",
+        "bevel blades",
+        "bevel shave",
+        "bevel shaving system",
+        "buy bevel",
+        "buy razor",
+        "buy razor blades",
+        "buy blades",
+        "shaving system",
+        "razor",
+        "bumps",
+        "shaving irritation",
+        "shaving bumps",
+        "single blade",
+        "wet shave",
+        "jojoba oil",
+        "double edge safety razor",
+        "Dr. Michelle Henry",
+        "Tristan Walker",
+        "smoother skin",
+        "smooth skin",
+        "irritation",
+        "single-blade",
+        "single-blade razor",
+        "single blade razor",
+        "multi-blade",
+        "multi blade",
+        "multi blade razor",
+        "multi-blade razor",
+        "dermatologist",
+        "clearer skin",
+        "skin clarity",
+        "depilatory creams",
+        "black men shaving",
+        "black men razor bumps",
+        "black men razor burn",
+        "dollar shave",
+        "art of shaving",
+        "harrys",
+        "gillette",
+        "tend skin",
+        "face irritation",
+        "skin irritation",
+        "pfb",
+        "pseudofolliculitis barbae",
+        "barbers itch",
+        "face scarring",
+        "de razor",
+        "double edge safety razor",
+        "de shaving",
+        "de shave",
+        "mens razor",
+        "womens razor",
+        "shaving cream",
+        "shave oil",
+        "shaving oil",
+        "shave bumps",
+        "shaving pumps",
+        "razor pumps",
+        "magic shave",
+        "trimmer",
+        "trimmers",
+        "electric",
+        "andis",
+        "t-outliner",
+        "oster",
+        "wahl",
+        "bevel shave system",
+        "bevel trimmer",
+        "get bevel",
+        "bevel works",
+        "zero gap",
+        "line up",
+        "line-up",
+        "facial hair",
+        "trim",
+        "trimming"
+      ]
+    }
+  },
+  {
+    "brand": "GLAMSQUAD",
+    "site": "https://www.glamsquad.com/",
+    "logo": "http://photos.prnewswire.com/prn/20151008/275456LOGO/GLAMSQUAD-LOGO",
+    "market": "Beauty & Health",
+    "tactic": "Make it on demand",
+    "siteMeta": {
+      "og": {
+        "title": "Home Redesign",
+        "type": "article",
+        "url": "https://www.glamsquad.com/"
+      },
+      "title": "GLAMSQUAD | An on-demand, in-home beauty service in NYC, LA and Miami"
+    }
+  },
+  {
+    "brand": "Groupon",
+    "site": "https://www.groupon.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Groupon_Logo.svg/2000px-Groupon_Logo.svg.png",
+    "market": "Deals & Coupons",
+    "tactic": "Build a discovery driven experience (push model)",
+    "siteMeta": {
+      "fb": {
+        "appId": "7829106395"
+      },
+      "og": {
+        "title": "Groupon: Deals and Coupons for Restaurants, Fitness, Travel, Shopping, Beauty, and more.",
+        "url": "https://www.groupon.com/local/chicago"
+      },
+      "title": "Groupon: Deals and Coupons for Restaurants, Fitness, Travel, Shopping, Beauty, and more.Groupon",
+      "description": "Discover and save on 1000s of great deals at nearby restaurants, spas, things to do, shopping, travel and more.  Groupon: Own the Experience."
+    }
+  },
+  {
+    "brand": "Tinder",
+    "site": "https://www.gotinder.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d5/Tinder_logo.png",
+    "market": "Dating",
+    "tactic": "Build it as mobile-native",
+    "siteMeta": {
+      "og": {
+        "title": "Tinder - meet interesting people nearby.",
+        "description": "Tinder is how people meet. Get it for free on iPhone and Android.",
+        "image": "http://d3jt6jnjk0gnxj.cloudfront.net/moments/logo.png",
+        "url": "http://tinder.com"
+      },
+      "title": "Tinder",
+      "description": "Tinder is how people meet. It's like real life, but better. Get it for free on iPhone and Android"
+    }
+  },
+  {
+    "brand": "Raise",
+    "site": "https://www.raise.com/",
+    "logo": "https://d2o2wpn1drmies.cloudfront.net/avatars/429/eec/123/ce0/4c9/d83/f0f/489/a27/7c1/5e/Raise-Mint-Monkey-01-png.medium.png?1429807830",
+    "market": "Gifting",
+    "tactic": "Create a marketplace",
+    "siteMeta": {
+      "fb": {
+        "appId": "297060650333120"
+      },
+      "og": {
+        "title": "Raise.com",
+        "description": "Marketplace to buy and sell unwanted gift cards.",
+        "image": "//d36cmr08aasnby.cloudfront.net/assets/raise_og_image-7c9b6ffa0ec661891486b17c741a0a90.jpg",
+        "type": "website",
+        "url": "https://www.raise.com/"
+      },
+      "title": "Raise: Buy and Sell Gift Cards - Exchange Gift Cards",
+      "description": "Raise is a gift card marketplace where users can sell or buy gift cards online at a discount"
+    }
+  },
+  {
+    "brand": "Medium",
+    "site": "https://medium.com/",
+    "logo": "https://cdn-images-1.medium.com/max/800/1*5ztbgEt4NqpVaxTc64C-XA.png",
+    "market": "Blogging",
+    "tactic": "Remove features to launch a simpler/better product",
+    "siteMeta": {
+      "fb": {
+        "appId": "542599432471018"
+      },
+      "og": {
+        "title": "Medium – Read, write and share stories that matter",
+        "description": "Welcome to Medium, a place to read, write, and interact with the stories that matter most to you. Every day, thousands of voices read, write, and share important stories on Medium.",
+        "url": "https://medium.com/"
+      },
+      "title": "Medium – Read, write and share stories that matter",
+      "description": "Welcome to Medium, a place to read, write, and interact with the stories that matter most to you. Every day, thousands of voices read, write, and share important stories on Medium."
+    }
+  },
+  {
+    "brand": "BuzzFeed",
+    "site": "https://www.buzzfeed.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BuzzFeed.svg/2000px-BuzzFeed.svg.png",
+    "market": "News",
+    "tactic": "Build a discovery driven experience (push model)",
+    "siteMeta": {
+      "fb": {
+        "appId": "212374995460808"
+      },
+      "og": {
+        "title": "BuzzFeed",
+        "description": "BuzzFeed has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you’ll want to share with your friends.",
+        "image": "/static-assets/img/buzzfeed_arrow.e86a786d9e5e2250e1ed3e0ec95ba42d.png",
+        "type": "website",
+        "url": "https://www.buzzfeed.com"
+      },
+      "title": "BuzzFeed",
+      "description": "BuzzFeed has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you’ll want to share with your friends."
+    }
+  },
+  {
+    "brand": "Zola",
+    "site": "https://www.zola.com/",
+    "logo": "http://www-static.weddingbee.com/wp-content/uploads/2015/02/Zola-Logo-300x150.jpg",
+    "market": "Weddings",
+    "tactic": "Bring an offline behavior online",
+    "siteMeta": {
+      "og": {
+        "title": "Wedding Registry & Gifts | Zola Wedding Registry",
+        "description": "Zola is the all-in-one wedding registry that will do anything for love.",
+        "image": "https://www.zola.com/assets/images/zola-logo-big.png",
+        "type": "website",
+        "url": "https://www.zola.com/wedding-registry"
+      },
+      "title": "Wedding Registry & Gifts | Zola Wedding Registry",
+      "description": "Zola is the all-in-one wedding registry that will do anything for love.",
+      "keywords": [
+        "wedding registry",
+        "online wedding registry"
+      ]
+    }
+  },
+  {
+    "brand": "The Black Tux",
+    "site": "https://theblacktux.com/",
+    "logo": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/156611-0983b09853f96f288436593107d60d28-medium_jpg.jpg?buster=1390437410",
+    "market": "Weddings",
+    "tactic": "Bring rentals to market at lower cost",
+    "siteMeta": {
+      "fb": {
+        "appId": "320597481374273"
+      },
+      "og": {
+        "title": "Premium Suit & Tuxedo Rentals, Delivered. | The Black Tux",
+        "description": "Online suit and tuxedo rentals starting at $95. Large selection of colors and styles for weddings, prom, and special events. Free shipping both ways.",
+        "image": "https://static.theblacktux.com/collected/img/fb.271725e5d3ea.jpg",
+        "type": "website",
+        "url": "https://theblacktux.com/"
+      },
+      "title": "Premium Suit & Tuxedo Rentals, Delivered. | The Black TuxFree Home Try-On",
+      "description": "Online suit and tuxedo rentals starting at $95. Large selection of colors and styles for weddings, prom, and special events. Free shipping both ways."
+    }
+  },
+  {
+    "brand": "1Password",
+    "site": "https://1password.com/",
+    "logo": "http://168kuc2h8b8d20lvkb36obq9-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/1Password-Logo.jpg",
+    "market": "Security",
+    "tactic": "Streamline a process through tech",
+    "siteMeta": {
+      "og": {
+        "type": "website"
+      },
+      "title": "1Password"
+    }
+  },
+  {
+    "brand": "Nextdoor",
+    "site": "https://nextdoor.com/",
+    "logo": "https://nextdoor.com/static/nextdoorv2/images/newsroom/logo-green-large.png",
+    "market": "Home",
+    "tactic": "Bring an offline behavior online",
+    "siteMeta": {
+      "fb": {
+        "appId": "114611681929998"
+      },
+      "og": {
+        "title": "Nextdoor is the free private social network for your neighborhood community.",
+        "description": "Over 124,000 communities across the U.S. are using Nextdoor to strengthen their neighborhoods.",
+        "image": "https://d19rpgkrjeba2z.cloudfront.net/63dbf634f9b58079/static/images/fb_share_logo1.jpg",
+        "type": "website",
+        "url": "https://nextdoor.com/"
+      },
+      "title": "Nextdoor: Join the free private social network for your neighborhood",
+      "description": "Nextdoor is the free private social network for your neighborhood community.",
+      "author": "Nextdoor",
+      "keywords": [
+        "Nextdoor"
+      ]
+    }
+  },
+  {
+    "brand": "Houzz",
+    "site": "http://www.houzz.com/",
+    "logo": "http://st.hzcdn.com/res/2469/pic/print_logo.png?v=2469",
+    "market": "Home",
+    "tactic": "Aggregate the long tail and drive discovery",
+    "siteMeta": {
+      "fb": {
+        "appId": "143965932308817"
+      },
+      "og": {
+        "title": "Houzz - Дизайн интерьеров, идеи для перепланировки и ремонта",
+        "description": "Самая большая онлайн-библиотека идей по интерьеру и отделке, в том числе, в кухне и ванной комнате. Более 12 млн.вдохновляющих фотографий и 100 000 альбомов идей ведущих дизайнеров по всему миру. Идеи по переделке и украшению и вдохновение для проектирования вашей кухни, ванной, сада и многое другое. Находите архитекторов, дизайнеров интерьера и подрядчиков по обустройству дома.",
+        "image": "https://st.hzcdn.com/simgs/4cb1776a051bfbf7_3-2802/rustika-gostinaya.jpg",
+        "type": "website",
+        "url": "http://www.houzz.ru"
+      },
+      "title": "Houzz - Дизайн интерьеров, идеи для перепланировки и ремонта",
+      "description": "Houzz — новый способ обустраивать дом. 12 млн. фотографий интерьеров, предметов дизайна и свежих идей, а также профессиональные дизайнеры прямо в сети.",
+      "keywords": [
+        "дом",
+        "архитектура",
+        "дизайн",
+        "дизайн интерьеров",
+        "интерьерный дизайн",
+        "дизайнер интерьеров",
+        "архитектор",
+        "кухня",
+        "ванная комната",
+        "модерн",
+        "традиционный",
+        "современный",
+        "строитель",
+        "подрядчик"
+      ]
+    }
+  },
+  {
+    "brand": "Casper",
+    "site": "https://casper.com/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Casper_Logo.png",
+    "market": "Home",
+    "tactic": "Build a vertical brand",
+    "siteMeta": {
+      "og": {
+        "image": "https://casper1.imgix.net/share/fb-hp.jpg?auto=format&h=630&w=1200"
+      },
+      "title": "The Best Bed for Better Sleep  | Casper®",
+      "description": "An obsessively engineered mattress at a shockingly fair price. Try sleeping on a Casper for 100 days, with free delivery and painless returns."
+    }
+  },
+  {
+    "brand": "Point",
+    "site": "https://point.com/",
+    "logo": "http://resources.point.com/wp-content/uploads/2016/05/cropped-512-logo-print-color.png",
+    "market": "Home",
+    "tactic": "Enable easier creation",
+    "siteMeta": {
+      "fb": {
+        "appId": "964709733547044"
+      },
+      "og": {
+        "title": "Point is the easiest way to sell a piece of your home | Point.com",
+        "description": "Online real estate financing, offering existing homeowners and new homebuyers shared home equity financing, shared equity, HELOC alternative, HELOC refinancing, pay off your HELOC, reverse mortgage alternative, home equity loan alternative, mortgage alternative, zero monthly payments, debt free home financing, fractional home ownership, responsible debt, wealth diversification | Point.com",
+        "image": "https://point.com/assets/content/social-image-4f76165a701a5432b0a3ca0353c3410e2d6340f10141f16ed89a86dca759751e.jpg"
+      },
+      "title": "Point is the easiest way to sell a piece of your home | Point.com",
+      "description": "Online real estate financing, offering existing homeowners and new homebuyers shared home equity financing, shared equity, HELOC alternative, HELOC refinancing, pay off your HELOC, reverse mortgage alternative, home equity loan alternative, mortgage alternative, zero monthly payments, debt free home financing, fractional home ownership, responsible debt, wealth diversification | Point.com",
+      "keywords": [
+        "Point",
+        "Point.com",
+        "shared home equity financing",
+        "shared equity",
+        "HELOC alternative",
+        "HELOC refinancing",
+        "pay off your HELOC",
+        "reverse mortgage alternative",
+        "home equity loan alternative",
+        "mortgage alternative",
+        "zero monthly payments",
+        "debt free home financing",
+        "fractional home ownership",
+        "responsible debt",
+        "wealth diversification"
+      ]
+    }
+  },
+  {
+    "brand": "Homepolish",
+    "site": "https://www.homepolish.com/",
+    "logo": "https://www.homepolish.com/assets/homepolish_logo-c85e020ccc97927625589eac4ba0ecd5.png",
+    "market": "Home",
+    "tactic": "Make it a service",
+    "siteMeta": {
+      "fb": {
+        "appId": "127512634049491"
+      },
+      "og": {
+        "title": "Homepolish: Online and In-Home Interior Design by the Hour",
+        "description": "Hourly interior design in 10+ cities and online nationwide. From decorating rooms to renovating offices, our designers help you get any job done in style.",
+        "image": "https://www.homepolish.com/assets/landing_pages/homepage/tours/desktop/2rmi-393b123ead9bbe8a421386582038f4f3.jpg",
+        "type": "website",
+        "url": "https://www.homepolish.com/"
+      },
+      "title": "Homepolish: Online and In-Home Interior Design by the Hour",
+      "description": "Hourly interior design in 10+ cities and online nationwide. From decorating rooms to renovating offices, our designers help you get any job done in style."
+    }
+  }
+]

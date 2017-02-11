@@ -1,0 +1,72 @@
+[
+  {
+    "brand": "Wayfair",
+    "site": "https://www.wayfair.com/",
+    "logo": "http://www.bankerandtradesman.com/wp-content/uploads/2015/10/wayfair-logo.jpg",
+    "market": "Shopping",
+    "tactic": "Aggregate the long tail and drive discovery"
+  },
+  {
+    "brand": "Amazon Prime",
+    "site": "https://www.amazon.com/gp/prime/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Amazon_Prime_logo.jpg",
+    "market": "Shopping",
+    "tactic": "Make it a subscription"
+  },
+  {
+    "brand": "Joymode",
+    "site": "https://www.joymode.com/",
+    "logo": "https://cdn.evbuc.com/eventlogos/150254748/joymodelogo.png",
+    "market": "Shopping",
+    "tactic": "Bring rentals to market at lower cost"
+  },
+  {
+    "brand": "eBay",
+    "site": "http://www.ebay.com/",
+    "logo": "http://lofrev.net/wp-content/photos/2016/06/ebay-logo-1-250x150.png",
+    "market": "Shopping",
+    "tactic": "Create a marketplace"
+  },
+  {
+    "brand": "Pinterest",
+    "site": "https://www.pinterest.com/",
+    "logo": "https://cdn0.iconfinder.com/data/icons/Pinterest/Pinterest_Logo.png",
+    "market": "Shopping",
+    "tactic": "Build a discovery driven experience (push model)"
+  },
+  {
+    "brand": "Wish",
+    "site": "https://www.wish.com/",
+    "logo": "https://photos.prnewswire.com/prnvar/20150713/235913LOGO",
+    "market": "Shopping",
+    "tactic": "Build it as mobile-native"
+  },
+  {
+    "brand": "Affirm",
+    "site": "https://www.affirm.com/",
+    "logo": "http://www.incimages.com/uploaded_files/inlineimage/630x0/affirmlogo-green_lg1_30807.jpg",
+    "market": "Shopping",
+    "tactic": "Offer loans or insurance"
+  },
+  {
+    "brand": "Trim",
+    "site": "http://www.asktrim.com/",
+    "logo": "http://www.asktrim.com/assets/Logo_CircleText-46fdeabcf7dbbc21883591ff91944f1477d838de996964fc0383d6550d5d9322.png",
+    "market": "Shopping",
+    "tactic": "Build a software management layer"
+  },
+  {
+    "brand": "Flipkart",
+    "site": "https://www.flipkart.com/",
+    "logo": "http://www.underconsideration.com/brandnew/archives/flipkart_logo_detail.jpg",
+    "market": "Shopping",
+    "tactic": "Target a new or emerging market"
+  },
+  {
+    "brand": "musical.ly",
+    "site": "https://musical.ly/",
+    "logo": "http://www.billboard.com/files/media/musical-ly-app-logo-2016-billboard-650-1548.jpg",
+    "market": "Mobile Video",
+    "tactic": "Build a UGC community"
+  }
+]
