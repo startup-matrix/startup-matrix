@@ -42,7 +42,7 @@ npm i
 node export-to-json.js
 ```
 
-JSON files will be updated in `./json` dir.
+JSON files will be updated in [./json](./json) dir.
 
 ## Credits
 
