@@ -2424,29 +2424,28 @@
         "appId": "143965932308817"
       },
       "og": {
-        "title": "Houzz - Дизайн интерьеров, идеи для перепланировки и ремонта",
-        "description": "Самая большая онлайн-библиотека идей по интерьеру и отделке, в том числе, в кухне и ванной комнате. Более 12 млн.вдохновляющих фотографий и 100 000 альбомов идей ведущих дизайнеров по всему миру. Идеи по переделке и украшению и вдохновение для проектирования вашей кухни, ванной, сада и многое другое. Находите архитекторов, дизайнеров интерьера и подрядчиков по обустройству дома.",
-        "image": "https://st.hzcdn.com/simgs/4cb1776a051bfbf7_3-2802/rustika-gostinaya.jpg",
+        "title": "Houzz - Home Design, Decorating and Remodeling Ideas and Inspiration, Kitchen and Bathroom Design",
+        "description": "The largest collection of interior design and decorating ideas on the Internet, including kitchens and bathrooms. Over 12 million inspiring photos and 100,000 idea books from top designers around the world. Remodeling and decorating ideas and inspiration for designing your kitchen, bath, patio and more. Find architects, interior designers and home improvement contractors.",
+        "image": "https://st.hzcdn.com/simgs/8cc130af0252f047_3-9216/transitional-kitchen.jpg",
         "type": "website",
-        "url": "http://www.houzz.ru"
+        "url": "http://www.houzz.com"
       },
-      "title": "Houzz - Дизайн интерьеров, идеи для перепланировки и ремонта",
-      "description": "Houzz — новый способ обустраивать дом. 12 млн. фотографий интерьеров, предметов дизайна и свежих идей, а также профессиональные дизайнеры прямо в сети.",
+      "title": "Houzz - Home Design, Decorating and Remodeling Ideas and Inspiration, Kitchen and Bathroom Design",
+      "description": "Houzz is the new way to design your home. Browse 12 million interior design photos, home decor, decorating ideas and home professionals online.",
       "keywords": [
-        "дом",
-        "архитектура",
-        "дизайн",
-        "дизайн интерьеров",
-        "интерьерный дизайн",
-        "дизайнер интерьеров",
-        "архитектор",
-        "кухня",
-        "ванная комната",
-        "модерн",
-        "традиционный",
-        "современный",
-        "строитель",
-        "подрядчик"
+        "house",
+        "architecture",
+        "design",
+        "interior design",
+        "interior designer",
+        "architect",
+        "kitchen",
+        "bath",
+        "modern",
+        "traditional",
+        "contemporary",
+        "contractor",
+        "builder"
       ]
     }
   },
