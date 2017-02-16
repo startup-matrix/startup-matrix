@@ -2,7 +2,7 @@
 
 Matrix visualizes the successful startups regarding the market they operate and what kind of tactic they use to differentiate from other businesses and startups. Tactics on the X. Markets on the Y.
 
-[See the matrix **online**](http://startup-matrix.com) or [read an article about it](http://bit.ly/startup-matrix-on-github)
+[startup-matrix.com](http://startup-matrix.com)
 
 ## Matrix as table on GitHub
 
@@ -43,6 +43,10 @@ node export-to-json.js
 ```
 
 JSON files will be updated in [./json](./json) dir.
+
+## The article
+
+I have written [an article](http://bit.ly/startup-matrix-on-github) about this GitHub project.
 
 ## Credits
 
