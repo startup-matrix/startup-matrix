@@ -1,8 +1,8 @@
 # [Startup Matrix](http://startup-matrix.com)
 
-Matrix visualizes the successful startups regarding the market they operate and what kind of tactic they use to differentiate from other businesses and startups. [See the matrix online](http://startup-matrix.com)
+Matrix visualizes the successful startups regarding the market they operate and what kind of tactic they use to differentiate from other businesses and startups. Tactics on the X. Markets on the Y.
 
-Tactics on the X. Markets on the Y. [Read more](http://bit.ly/startup-matrix-on-github)
+[See the matrix online](http://startup-matrix.com) or [read an article about it](http://bit.ly/startup-matrix-on-github)
 
 ## Matrix as table on GitHub
 
